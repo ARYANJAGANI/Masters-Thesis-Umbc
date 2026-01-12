@@ -1,0 +1,110 @@
+Your task is to generate CROWD questions (Completion, Recall, Open-ended, Distancing, Wh-questions) based on the story.
+
+    Goal: Help the child comprehend the story better, practice language skills, and connect the story to their own experiences.
+
+  . Use simple, precise language appropriate for children aged 4-7. Avoid complex sentences and vocabulary.
+
+    USE THE FOLLOWING CROWD STRATEGY AND EXAMPLES:
+
+    Crowd Questioning strategy:
+    C-Completion
+    R-Recall
+    O-Open-end questions
+    W-wh questions
+    D-Distancing questions
+
+    Completion Questions: Fill in the blank questions
+    E.g. The wild things roared________and gnashed their______ and rolled their _________ and showed their_______.
+
+    Recall Questions: Questions that ask the child to remember aspects of the book.
+    E.g. What did Mom call Max when he did lots of mischiefs?
+
+    Open-ended Questions: Statements/Questions that encourage the child to reply in his or her own words.
+    E.g. Tell me what you see on this page.
+    E.g. How do you know that Max is feeling lonely?
+
+    Wh-questions: Simple wh-questions begin with what, when and where for factual information in the text.
+    E.g. What’s this?
+    E.g. Where is Max?
+
+    Distancing Questions: Questions teachers ask to relate the elements of the book to prior/future experiences of the child.
+    E.g. What happened when you had a time-out?
+
+    Higher-Level Question Prompts:
+    How do you think if you were_______?
+    How do you feel if we/you/_________?
+    How do you know?
+    How did he/she/it _____?
+    Why do you think so?
+    What happened last time when you _________?
+CRITICAL CONSTRAINTS (MUST FOLLOW):
+
+1. NO INVENTED DETAILS:
+   Do NOT add events, characters, places, or objects that are not explicitly mentioned in the book.
+
+2. STAY TEXT-ACCURATE:
+   All questions must stay strictly faithful to the story.
+   Do NOT assume hidden meanings, extra scenes, or information not provided.
+
+3. AGE-APPROPRIATE LANGUAGE:
+   Keep questions short, clear, and simple, especially for young learners (Pre-K to Grade 2).
+
+4. COMPLETION QUESTIONS:
+   Use ONLY ONE blank.
+   Provide full context before the blank.
+   Never use multiple blanks or remove too much information.
+
+5. DISTANCING QUESTIONS:
+   Connect only to the child’s real-life experiences —
+   NOT to fictional characters or imaginary situations outside the book.
+
+6. WH-QUESTIONS:
+   Use only when the book provides clear details.
+   Do NOT ask “when,” “where,” or “why” questions if the story does not provide that information.
+
+7. NO COMPLEX MULTI-PART QUESTIONS:
+   Ask ONLY one idea per question.
+   Avoid lists, long sequences, or multi-step recall demands.
+
+# 8. GRADE LEVEL ALIGNMENT:
+#    - Pre-K / K → Completion, Recall, simple Wh-questions only.
+#    - Grades 1–2 → Basic inference, simple cause/effect.
+#    - Grades 3–4 → Character actions, motives, short explanations.
+#    - Grades 5–6 → Themes, comparisons, deeper reasoning.
+
+9. NEVER SUMMARIZE OR RETELL THE STORY:
+   Only generate the question — do not explain the book or add extra descriptions.
+
+10. DO NOT GENERATE A QUESTION UNLESS THE USER ASKS FOR ONE:
+    If the user has not requested a CROWD question, do not produce one automatically.
+
+    Title: {book_title}
+    Author: {author}
+Grade: K–1
+
+You MUST output:
+2 Completion
+2 Recall
+2 Wh-Question
+2 Open-Ended
+2 Distancing
+
+FORMAT (Do NOT change this):
+Completion: <question 1>
+Completion: <question 2>
+Recall: <question>
+Recall: <question>
+Wh-Question: <question>
+Wh-Question: <question>
+Open-Ended: <question>
+Open-Ended: <question>
+Distancing: <question>
+Distancing: <question>
+
+RULES:
+- No JSON
+- No bullets
+- No numbering
+- No explanations
+- Output ONLY the 10 lines
+- Use simple language for ages 4–7

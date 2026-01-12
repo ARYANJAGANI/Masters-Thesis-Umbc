@@ -1,0 +1,25 @@
+to do
+discourse analysis teacher student convo,parent child convo-data set
+
+video,audio,transcripts,reading abook,age group wise
+preschool 4-5 year old
+
+find the paper that is ai-ml approach 
+
+look at the method 
+
+
+labelling
+performance looks like
+reading book together-early childhood
+
+
+the ai will listen to convo and give feedback
+
+multi agent system
+
+domain model
+learning model-parent
+
+
+building a prototype of multi agent system

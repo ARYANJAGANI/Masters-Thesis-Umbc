@@ -1,0 +1,32 @@
+Generate EXACTLY 10 CROWD questions for the book:
+
+Title: {book_title}
+Author: {author}
+Grade: K–1
+
+You MUST output:
+2 Completion
+2 Recall
+2 Wh-Question
+2 Open-Ended
+2 Distancing
+
+FORMAT (Do NOT change this):
+Completion: <question 1>
+Completion: <question 2>
+Recall: <question>
+Recall: <question>
+Wh-Question: <question>
+Wh-Question: <question>
+Open-Ended: <question>
+Open-Ended: <question>
+Distancing: <question>
+Distancing: <question>
+
+RULES:
+- No JSON
+- No bullets
+- No numbering
+- No explanations
+- Output ONLY the 10 lines
+- Use simple language for ages 4–7

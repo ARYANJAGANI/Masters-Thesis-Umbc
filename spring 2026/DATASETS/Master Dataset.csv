@@ -1,0 +1,841 @@
+book_title,author,llm_model,Prompt_type,crowd_label,question_generated
+The Very Hungry Caterpillar,Eric Carle,gemini,ZeroShot,Completion,"On Sunday, the caterpillar ate through one nice green _____."
+The Very Hungry Caterpillar,Eric Carle,gemini,ZeroShot,Completion,"He built a small house, called a _____, around himself."
+The Very Hungry Caterpillar,Eric Carle,gemini,ZeroShot,Recall,What did the caterpillar turn into at the end of the book?
+The Very Hungry Caterpillar,Eric Carle,gemini,ZeroShot,Recall,What did the caterpillar eat on Monday?
+The Very Hungry Caterpillar,Eric Carle,gemini,ZeroShot,Wh-Question,Why did the caterpillar get a stomachache?
+The Very Hungry Caterpillar,Eric Carle,gemini,ZeroShot,Wh-Question,What came out of the little egg in the beginning?
+The Very Hungry Caterpillar,Eric Carle,gemini,ZeroShot,Open-Ended,Tell me about all the food the caterpillar ate on Saturday.
+The Very Hungry Caterpillar,Eric Carle,gemini,ZeroShot,Open-Ended,Look at the beautiful butterfly. Tell me about its wings.
+The Very Hungry Caterpillar,Eric Carle,gemini,ZeroShot,Distancing,What is your favorite food to eat when you are very hungry?
+The Very Hungry Caterpillar,Eric Carle,gemini,ZeroShot,Distancing,Have you ever seen a real caterpillar or butterfly outside?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,ZeroShot,Completion,"Brown Bear, Brown Bear, what do you see? I see a red..."
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,ZeroShot,Completion,"Yellow Duck, Yellow Duck, what do you see? I see a blue..."
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,ZeroShot,Recall,What animal did the green frog see?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,ZeroShot,Recall,What color was the sheep in the story?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,ZeroShot,Wh-Question,Who saw the white dog?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,ZeroShot,Wh-Question,What did the teacher see looking at her?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,ZeroShot,Open-Ended,Tell me about your favorite animal in the book.
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,ZeroShot,Open-Ended,"If you could add another animal to the book, what would it be and what color?"
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,ZeroShot,Distancing,Have you ever seen a real bear? Where was it?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,ZeroShot,Distancing,The book has a purple cat and a blue horse. What colors are cats and horses in real life?
+The Grouchy Ladybug,Eric Carle,gemini,ZeroShot,Completion,"At five o’clock, the grouchy ladybug saw a leaf full of ______."
+The Grouchy Ladybug,Eric Carle,gemini,ZeroShot,Completion,"At the end of the story, the two ladybugs decided to ______ the aphids."
+The Grouchy Ladybug,Eric Carle,gemini,ZeroShot,Recall,What did the grouchy ladybug say to every animal it met?
+The Grouchy Ladybug,Eric Carle,gemini,ZeroShot,Recall,What animal slapped the grouchy ladybug with its tail?
+The Grouchy Ladybug,Eric Carle,gemini,ZeroShot,Wh-Question,Why was the ladybug so grouchy at the beginning of the story?
+The Grouchy Ladybug,Eric Carle,gemini,ZeroShot,Wh-Question,Who was the friendly bug the grouchy ladybug met at the end of the story?
+The Grouchy Ladybug,Eric Carle,gemini,ZeroShot,Open-Ended,Tell me how the grouchy ladybug acted when it met the friendly ladybug at the end of the day.
+The Grouchy Ladybug,Eric Carle,gemini,ZeroShot,Open-Ended,What do you think would have happened if the grouchy ladybug had shared the aphids at the start of the day?
+The Grouchy Ladybug,Eric Carle,gemini,ZeroShot,Distancing,Can you think of a time you felt grouchy? What made you feel better?
+The Grouchy Ladybug,Eric Carle,gemini,ZeroShot,Distancing,The ladybug learned it's nice to share. What is something you like to share with your friends?
+A House for a Hermit Crab,Eric Carle,gemini,ZeroShot,Completion,"""Time to move,"" said Hermit Crab. ""My shell is getting too ____."""
+A House for a Hermit Crab,Eric Carle,gemini,ZeroShot,Completion,"When the hermit crab found a new shell, he thought it was a little too ____."
+A House for a Hermit Crab,Eric Carle,gemini,ZeroShot,Recall,What did the hermit crab do to make his new shell feel like a home?
+A House for a Hermit Crab,Eric Carle,gemini,ZeroShot,Recall,"At the end of the story, what did the little hermit crab do?"
+A House for a Hermit Crab,Eric Carle,gemini,ZeroShot,Wh-Question,Why did the hermit crab have to find a new house?
+A House for a Hermit Crab,Eric Carle,gemini,ZeroShot,Wh-Question,Who did the hermit crab ask to light up the dark ocean floor?
+A House for a Hermit Crab,Eric Carle,gemini,ZeroShot,Open-Ended,Tell me about how the hermit crab felt when he had to leave his beautiful shell.
+A House for a Hermit Crab,Eric Carle,gemini,ZeroShot,Open-Ended,Why do you think all the other sea animals wanted to help the hermit crab?
+A House for a Hermit Crab,Eric Carle,gemini,ZeroShot,Distancing,"What is something you have grown out of, like a piece of clothing or shoes?"
+A House for a Hermit Crab,Eric Carle,gemini,ZeroShot,Distancing,"If you were decorating a house like the hermit crab, what would you put on it?"
+Mister Seahorse,Eric Carle,gemini,ZeroShot,Completion,Mister Seahorse carried the eggs in his special ______.
+Mister Seahorse,Eric Carle,gemini,ZeroShot,Completion,The fish hiding behind the rock looked just like a ______.
+Mister Seahorse,Eric Carle,gemini,ZeroShot,Recall,What did Mister Tilapia carry in his mouth?
+Mister Seahorse,Eric Carle,gemini,ZeroShot,Recall,Name one of the fish that was hiding behind the special see-through pages.
+Mister Seahorse,Eric Carle,gemini,ZeroShot,Wh-Question,Where did Mister Seahorse keep the eggs to keep them safe?
+Mister Seahorse,Eric Carle,gemini,ZeroShot,Wh-Question,"Who told Mister Seahorse, ""It's time for me to go""?"
+Mister Seahorse,Eric Carle,gemini,ZeroShot,Open-Ended,How do you think Mister Seahorse felt when all the babies were born?
+Mister Seahorse,Eric Carle,gemini,ZeroShot,Open-Ended,Tell me about your favorite dad in the story and what he did.
+Mister Seahorse,Eric Carle,gemini,ZeroShot,Distancing,Have you ever seen a real fish hiding? Where was it?
+Mister Seahorse,Eric Carle,gemini,ZeroShot,Distancing,The daddy fish in the book protect their babies. How do the grown-ups in your family keep you safe?
+The Very Busy Spider,Eric Carle,gemini,ZeroShot,Completion,The spider was very busy spinning her ____.
+The Very Busy Spider,Eric Carle,gemini,ZeroShot,Completion,The fly got caught in the web because it was very ____.
+The Very Busy Spider,Eric Carle,gemini,ZeroShot,Recall,What did the spider catch at the end of the story?
+The Very Busy Spider,Eric Carle,gemini,ZeroShot,Recall,Did the spider stop working to play with the animals?
+The Very Busy Spider,Eric Carle,gemini,ZeroShot,Wh-Question,Who asked the spider to go for a ride?
+The Very Busy Spider,Eric Carle,gemini,ZeroShot,Wh-Question,Why didn't the spider answer any of the animals?
+The Very Busy Spider,Eric Carle,gemini,ZeroShot,Open-Ended,Look at the finished web. Tell me all about it.
+The Very Busy Spider,Eric Carle,gemini,ZeroShot,Open-Ended,How do you think the spider felt when she finished her web?
+The Very Busy Spider,Eric Carle,gemini,ZeroShot,Distancing,Have you ever seen a real spider web? Where was it?
+The Very Busy Spider,Eric Carle,gemini,ZeroShot,Distancing,The spider worked very hard. What is something you have worked hard on?
+The Mixed-Up Chameleon,Eric Carle,gemini,ZeroShot,Completion,"The mixed-up chameleon was very hungry, but he couldn't catch the ______."
+The Mixed-Up Chameleon,Eric Carle,gemini,ZeroShot,Completion,"At the beginning, the chameleon's life was not very ______."
+The Mixed-Up Chameleon,Eric Carle,gemini,ZeroShot,Recall,What color was the chameleon when it sat on a brown tree?
+The Mixed-Up Chameleon,Eric Carle,gemini,ZeroShot,Recall,Name one animal part the chameleon wished for.
+The Mixed-Up Chameleon,Eric Carle,gemini,ZeroShot,Wh-Question,Why was the chameleon sad at the start of the story?
+The Mixed-Up Chameleon,Eric Carle,gemini,ZeroShot,Wh-Question,What animal did the chameleon get its long neck from?
+The Mixed-Up Chameleon,Eric Carle,gemini,ZeroShot,Open-Ended,Tell me about what is happening in the picture where the chameleon is all mixed-up.
+The Mixed-Up Chameleon,Eric Carle,gemini,ZeroShot,Open-Ended,How do you think the chameleon felt when he couldn't eat the fly?
+The Mixed-Up Chameleon,Eric Carle,gemini,ZeroShot,Distancing,"If you could be like any animal, which animal would you choose to be?"
+The Mixed-Up Chameleon,Eric Carle,gemini,ZeroShot,Distancing,Tell me about a time you were happy just to be yourself.
+"Pancakes, Pancakes!",Eric Carle,gemini,ZeroShot,Completion,"""I'd like a big pancake for..."""
+"Pancakes, Pancakes!",Eric Carle,gemini,ZeroShot,Completion,Jack churned the cream until it turned into...
+"Pancakes, Pancakes!",Eric Carle,gemini,ZeroShot,Recall,What was the first thing Jack had to get for his mother?
+"Pancakes, Pancakes!",Eric Carle,gemini,ZeroShot,Recall,What did Jack get from the spotted cow?
+"Pancakes, Pancakes!",Eric Carle,gemini,ZeroShot,Wh-Question,Who ground the wheat into flour for Jack?
+"Pancakes, Pancakes!",Eric Carle,gemini,ZeroShot,Wh-Question,What did Jack's mother cook the pancake in?
+"Pancakes, Pancakes!",Eric Carle,gemini,ZeroShot,Open-Ended,Why do you think it took so long for Jack to get his pancake?
+"Pancakes, Pancakes!",Eric Carle,gemini,ZeroShot,Open-Ended,Look at Jack's face at the end of the story. How do you think he feels?
+"Pancakes, Pancakes!",Eric Carle,gemini,ZeroShot,Distancing,Jack put strawberry jam on his pancake. What do you like to put on your pancakes?
+"Pancakes, Pancakes!",Eric Carle,gemini,ZeroShot,Distancing,Jack helped make his own breakfast. What is a food you have helped make?
+10 Little Rubber Ducks,Eric Carle,gemini,ZeroShot,Completion,The tenth little rubber duck met a mother duck and all her little _____.
+10 Little Rubber Ducks,Eric Carle,gemini,ZeroShot,Completion,"The big boat sailed across the wide, wide _____."
+10 Little Rubber Ducks,Eric Carle,gemini,ZeroShot,Recall,What fell off the big cargo ship into the water?
+10 Little Rubber Ducks,Eric Carle,gemini,ZeroShot,Recall,Who did the last little rubber duck meet at the end of the book?
+10 Little Rubber Ducks,Eric Carle,gemini,ZeroShot,Wh-Question,What animal is roaring at the rubber duck on this page?
+10 Little Rubber Ducks,Eric Carle,gemini,ZeroShot,Wh-Question,Where were the rubber ducks made at the beginning of the story?
+10 Little Rubber Ducks,Eric Carle,gemini,ZeroShot,Open-Ended,Tell me what is happening on this page with the big whale.
+10 Little Rubber Ducks,Eric Carle,gemini,ZeroShot,Open-Ended,How do you think the little rubber duck felt when he was all alone?
+10 Little Rubber Ducks,Eric Carle,gemini,ZeroShot,Distancing,Have you ever played with a rubber duck in the bathtub?
+10 Little Rubber Ducks,Eric Carle,gemini,ZeroShot,Distancing,This duck saw a polar bear. What is another animal that lives where it is cold?
+"1,2,3 to the Zoo",Eric Carle,gemini,ZeroShot,Completion,The train is taking all the animals to the ______.
+"1,2,3 to the Zoo",Eric Carle,gemini,ZeroShot,Completion,Look at this page! There are three tall ______.
+"1,2,3 to the Zoo",Eric Carle,gemini,ZeroShot,Recall,What animal was in the very first train car?
+"1,2,3 to the Zoo",Eric Carle,gemini,ZeroShot,Recall,How many bears were in their train car?
+"1,2,3 to the Zoo",Eric Carle,gemini,ZeroShot,Wh-Question,What is pulling all the train cars to the zoo?
+"1,2,3 to the Zoo",Eric Carle,gemini,ZeroShot,Wh-Question,Where are all the animals at the end of the book?
+"1,2,3 to the Zoo",Eric Carle,gemini,ZeroShot,Open-Ended,Tell me everything you see happening on this page with the monkeys.
+"1,2,3 to the Zoo",Eric Carle,gemini,ZeroShot,Open-Ended,Look at the last page. Why do you think all the animals look so happy at the zoo?
+"1,2,3 to the Zoo",Eric Carle,gemini,ZeroShot,Distancing,Have you ever seen a real train? Where was it going?
+"1,2,3 to the Zoo",Eric Carle,gemini,ZeroShot,Distancing,"If you could be one of the animals going to the zoo, which one would you be?"
+The Giving Tree,Shel Silverstein,gemini,ZeroShot,Completion,"And when the boy came back, the tree was so happy she could hardly speak and she whispered, ""Come, Boy, sit down. Sit down and ______."""
+The Giving Tree,Shel Silverstein,gemini,ZeroShot,Completion,"The boy wanted a boat to sail away, so he cut down her ______."
+The Giving Tree,Shel Silverstein,gemini,ZeroShot,Recall,What did the boy do with the tree's apples when he was a young man?
+The Giving Tree,Shel Silverstein,gemini,ZeroShot,Recall,"At the very end of the story, what was the only thing the old man needed from the tree?"
+The Giving Tree,Shel Silverstein,gemini,ZeroShot,Wh-Question,What did the boy carve into the tree's trunk when he was little?
+The Giving Tree,Shel Silverstein,gemini,ZeroShot,Wh-Question,Why was the tree happy?
+The Giving Tree,Shel Silverstein,gemini,ZeroShot,Open-Ended,Tell me about how the boy changed from the beginning of the story to the end.
+The Giving Tree,Shel Silverstein,gemini,ZeroShot,Open-Ended,How do you think the tree felt when the boy took her branches to build a house?
+The Giving Tree,Shel Silverstein,gemini,ZeroShot,Distancing,Can you think of a time you shared something to make a friend happy?
+The Giving Tree,Shel Silverstein,gemini,ZeroShot,Distancing,What is a special way someone in your family shows that they love you?
+How to Hide a Lion,Helen Stephens,gemini,ZeroShot,Completion,"When Iris put the lion in the bathtub, his long tail was sticking..."
+How to Hide a Lion,Helen Stephens,gemini,ZeroShot,Completion,The lion was very good at playing the game hide-and-...
+How to Hide a Lion,Helen Stephens,gemini,ZeroShot,Recall,What did Iris give the lion to wear so he could hide?
+How to Hide a Lion,Helen Stephens,gemini,ZeroShot,Recall,Where did the lion sleep after Iris's parents said he could stay?
+How to Hide a Lion,Helen Stephens,gemini,ZeroShot,Wh-Question,Why were the people in the town scared of the lion?
+How to Hide a Lion,Helen Stephens,gemini,ZeroShot,Wh-Question,Who did the lion help at the very end of the story?
+How to Hide a Lion,Helen Stephens,gemini,ZeroShot,Open-Ended,Look at the picture where the lion is in the bathtub. Tell me what you see.
+How to Hide a Lion,Helen Stephens,gemini,ZeroShot,Open-Ended,How do you think Iris felt when her parents found the lion?
+How to Hide a Lion,Helen Stephens,gemini,ZeroShot,Distancing,"If you found a friendly lion, where would you hide it in your house?"
+How to Hide a Lion,Helen Stephens,gemini,ZeroShot,Distancing,Have you ever been scared of something that turned out to be nice?
+Where the Wild Things Are,Maurice Sendak,gemini,ZeroShot,Completion,"When Max was sent to his room, a ________ grew there."
+Where the Wild Things Are,Maurice Sendak,gemini,ZeroShot,Completion,"""And now,"" cried Max, ""let the wild ________ start!"""
+Where the Wild Things Are,Maurice Sendak,gemini,ZeroShot,Recall,What did Max wear when he was making mischief?
+Where the Wild Things Are,Maurice Sendak,gemini,ZeroShot,Recall,"After the wild rumpus, what did Max smell from far away?"
+Where the Wild Things Are,Maurice Sendak,gemini,ZeroShot,Wh-Question,Where did Max go in his private boat?
+Where the Wild Things Are,Maurice Sendak,gemini,ZeroShot,Wh-Question,Why was Max's mother angry with him?
+Where the Wild Things Are,Maurice Sendak,gemini,ZeroShot,Open-Ended,Tell me about the wild things. What do they look like?
+Where the Wild Things Are,Maurice Sendak,gemini,ZeroShot,Open-Ended,Why do you think Max wanted to come home?
+Where the Wild Things Are,Maurice Sendak,gemini,ZeroShot,Distancing,Have you ever felt like a wild thing? What did you do?
+Where the Wild Things Are,Maurice Sendak,gemini,ZeroShot,Distancing,"If your room turned into a new place, where would you want it to be?"
+Rosie's Walk,Pat Hutchins,gemini,ZeroShot,Completion,Rosie the hen went for a walk across the...
+Rosie's Walk,Pat Hutchins,gemini,ZeroShot,Completion,The fox got chased away by the angry...
+Rosie's Walk,Pat Hutchins,gemini,ZeroShot,Recall,What was the first thing that got in the fox's way?
+Rosie's Walk,Pat Hutchins,gemini,ZeroShot,Recall,What happened when the fox jumped in the haystack?
+Rosie's Walk,Pat Hutchins,gemini,ZeroShot,Wh-Question,Who was following Rosie on her walk?
+Rosie's Walk,Pat Hutchins,gemini,ZeroShot,Wh-Question,Where did Rosie go after she walked around the pond?
+Rosie's Walk,Pat Hutchins,gemini,ZeroShot,Open-Ended,Look at this picture and tell me what is happening to the silly fox.
+Rosie's Walk,Pat Hutchins,gemini,ZeroShot,Open-Ended,Why do you think Rosie never noticed the fox?
+Rosie's Walk,Pat Hutchins,gemini,ZeroShot,Distancing,Rosie lives on a farm. Have you ever been to a farm?
+Rosie's Walk,Pat Hutchins,gemini,ZeroShot,Distancing,Rosie went for a walk. Where do you like to go for a walk?
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,ZeroShot,Completion,"At the beginning of the story, Alma's name was so long it never __________."
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,ZeroShot,Completion,"Her daddy said, ""Let me tell you the story of your name. Then you will __________ it."""
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,ZeroShot,Recall,What did Alma draw on the paper when the story started?
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,ZeroShot,Recall,Who was the first family member Alma's daddy told her about?
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,ZeroShot,Wh-Question,Why did Alma feel her name was too long at the beginning of the story?
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,ZeroShot,Wh-Question,What did Alma's grandmother Sofia love to do?
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,ZeroShot,Open-Ended,Tell me about one of the people Alma was named after.
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,ZeroShot,Open-Ended,How do you think Alma felt about her name at the end of the story?
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,ZeroShot,Distancing,Do you know the story of your name?
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,ZeroShot,Distancing,Alma loves to draw. What is something special that you love to do?
+Mae Among the Stars,Roda Ahmed,gemini,ZeroShot,Completion,"Mae's mom said, ""If you can dream it, if you believe in it and work hard for it, anything is ____."""
+Mae Among the Stars,Roda Ahmed,gemini,ZeroShot,Completion,"Little Mae dreamed of dancing in space, surrounded by billions of ____."
+Mae Among the Stars,Roda Ahmed,gemini,ZeroShot,Recall,What did Mae dream of becoming when she grew up?
+Mae Among the Stars,Roda Ahmed,gemini,ZeroShot,Recall,What did Mae's teacher tell her she should be instead of an astronaut?
+Mae Among the Stars,Roda Ahmed,gemini,ZeroShot,Wh-Question,Who helped Mae believe in her dream when she felt sad?
+Mae Among the Stars,Roda Ahmed,gemini,ZeroShot,Wh-Question,Why did Mae feel upset after talking to her teacher at school?
+Mae Among the Stars,Roda Ahmed,gemini,ZeroShot,Open-Ended,Tell me about the things Mae did to work hard for her dream.
+Mae Among the Stars,Roda Ahmed,gemini,ZeroShot,Open-Ended,How did Mae's parents help her feel better?
+Mae Among the Stars,Roda Ahmed,gemini,ZeroShot,Distancing,What is a big dream that you have?
+Mae Among the Stars,Roda Ahmed,gemini,ZeroShot,Distancing,"If you could go to space like Mae, what is one thing you would want to see?"
+Lubna and Pebble,Wendy Meddour,gemini,ZeroShot,Completion,"Lubna's best friend was a smooth, grey __________."
+Lubna and Pebble,Wendy Meddour,gemini,ZeroShot,Completion,"At the end, Lubna gave her pebble to __________."
+Lubna and Pebble,Wendy Meddour,gemini,ZeroShot,Recall,What did Lubna draw on her pebble to give it a face?
+Lubna and Pebble,Wendy Meddour,gemini,ZeroShot,Recall,Where did Lubna and her Daddy live?
+Lubna and Pebble,Wendy Meddour,gemini,ZeroShot,Wh-Question,Who did Lubna meet after she had been there for a while?
+Lubna and Pebble,Wendy Meddour,gemini,ZeroShot,Wh-Question,Why did Lubna give her pebble away?
+Lubna and Pebble,Wendy Meddour,gemini,ZeroShot,Open-Ended,Tell me about the part when Lubna first meets Amir.
+Lubna and Pebble,Wendy Meddour,gemini,ZeroShot,Open-Ended,How do you think Amir felt when Lubna gave him Pebble?
+Lubna and Pebble,Wendy Meddour,gemini,ZeroShot,Distancing,Have you ever had a special toy that made you feel better?
+Lubna and Pebble,Wendy Meddour,gemini,ZeroShot,Distancing,This book is about friendship. What is something you like to do with a friend?
+Can I Be Your Dog?,Troy Cummings,gemini,ZeroShot,Completion,Arfy wrote letters because he was looking for a...
+Can I Be Your Dog?,Troy Cummings,gemini,ZeroShot,Completion,"At the end, the mail carrier said Arfy was a very..."
+Can I Be Your Dog?,Troy Cummings,gemini,ZeroShot,Recall,Who was the person who finally gave Arfy a home?
+Can I Be Your Dog?,Troy Cummings,gemini,ZeroShot,Recall,"Tell me one place that told Arfy ""no""."
+Can I Be Your Dog?,Troy Cummings,gemini,ZeroShot,Wh-Question,Where did Arfy live at the beginning of the book?
+Can I Be Your Dog?,Troy Cummings,gemini,ZeroShot,Wh-Question,Why did Arfy write all those letters?
+Can I Be Your Dog?,Troy Cummings,gemini,ZeroShot,Open-Ended,"How do you think Arfy felt when he kept getting letters that said ""no""?"
+Can I Be Your Dog?,Troy Cummings,gemini,ZeroShot,Open-Ended,Tell me about the end of the story. What is happening in the picture?
+Can I Be Your Dog?,Troy Cummings,gemini,ZeroShot,Distancing,"Have you ever wanted something very badly, like Arfy wanted a home?"
+Can I Be Your Dog?,Troy Cummings,gemini,ZeroShot,Distancing,"If you could have any animal as a pet, what would you pick?"
+Last Stop on Market Street,Matt de la Peña,gemini,ZeroShot,Completion,"When they got on the bus, Nana said, ""I feel sorry for those boys in that..."""
+Last Stop on Market Street,Matt de la Peña,gemini,ZeroShot,Completion,"At the end of the story, CJ was glad they came to the last stop on Market ______."
+Last Stop on Market Street,Matt de la Peña,gemini,ZeroShot,Recall,What did Nana call the rain?
+Last Stop on Market Street,Matt de la Peña,gemini,ZeroShot,Recall,What kind of animal did the man on the bus have in a jar?
+Last Stop on Market Street,Matt de la Peña,gemini,ZeroShot,Wh-Question,Who did CJ and his Nana meet on the bus?
+Last Stop on Market Street,Matt de la Peña,gemini,ZeroShot,Wh-Question,Where are CJ and Nana going after they get off the bus?
+Last Stop on Market Street,Matt de la Peña,gemini,ZeroShot,Open-Ended,Look at this picture. Tell me about all the different people on the bus.
+Last Stop on Market Street,Matt de la Peña,gemini,ZeroShot,Open-Ended,Why do you think CJ is happy at the end of the story?
+Last Stop on Market Street,Matt de la Peña,gemini,ZeroShot,Distancing,Have you ever ridden on a bus? What did you see?
+Last Stop on Market Street,Matt de la Peña,gemini,ZeroShot,Distancing,Nana helped CJ find beautiful things. What is something beautiful you have seen today?
+This Is Not My Hat,Jon Klassen,gemini,ZeroShot,Completion,This hat is not mine. I just...
+This Is Not My Hat,Jon Klassen,gemini,ZeroShot,Completion,I am going where the plants are big and tall and...
+This Is Not My Hat,Jon Klassen,gemini,ZeroShot,Recall,What did the little fish take from the big fish?
+This Is Not My Hat,Jon Klassen,gemini,ZeroShot,Recall,Where did the little fish go to hide?
+This Is Not My Hat,Jon Klassen,gemini,ZeroShot,Wh-Question,Who was sleeping when the little fish took the hat?
+This Is Not My Hat,Jon Klassen,gemini,ZeroShot,Wh-Question,What animal saw the little fish swim by?
+This Is Not My Hat,Jon Klassen,gemini,ZeroShot,Open-Ended,What do you think happened to the little fish in the tall plants?
+This Is Not My Hat,Jon Klassen,gemini,ZeroShot,Open-Ended,Tell me why the little fish thought he would get away.
+This Is Not My Hat,Jon Klassen,gemini,ZeroShot,Distancing,Is it okay to take something that isn't yours? Why?
+This Is Not My Hat,Jon Klassen,gemini,ZeroShot,Distancing,Have you ever lost something special? How did you feel?
+Watercress,Andrea Wang,gemini,ZeroShot,Completion,"The family stopped their old, rusty car on the side of the ______."
+Watercress,Andrea Wang,gemini,ZeroShot,Completion,"At dinner, the mom told a story about a time when her family was very ______."
+Watercress,Andrea Wang,gemini,ZeroShot,Recall,What did the family find growing in the ditch?
+Watercress,Andrea Wang,gemini,ZeroShot,Recall,Did the girl want to help gather the watercress at first?
+Watercress,Andrea Wang,gemini,ZeroShot,Wh-Question,Why did the mom know so much about watercress?
+Watercress,Andrea Wang,gemini,ZeroShot,Wh-Question,What did the family eat for dinner at the end of the story?
+Watercress,Andrea Wang,gemini,ZeroShot,Open-Ended,How did the girl's feelings change from the beginning of the book to the end?
+Watercress,Andrea Wang,gemini,ZeroShot,Open-Ended,Tell me about the mother's story about when she was a little girl.
+Watercress,Andrea Wang,gemini,ZeroShot,Distancing,Have you ever tried a new food? Tell me about it.
+Watercress,Andrea Wang,gemini,ZeroShot,Distancing,Is there a special story that your family tells?
+The Very Hungry Caterpillar,Eric Carle,gemini,FewShot,Completion,"That night after eating all that food, the caterpillar had a ________."
+The Very Hungry Caterpillar,Eric Carle,gemini,FewShot,Completion,"At the end of the story, he turned into a beautiful ________."
+The Very Hungry Caterpillar,Eric Carle,gemini,FewShot,Recall,What came out of the little egg on the leaf?
+The Very Hungry Caterpillar,Eric Carle,gemini,FewShot,Recall,What did the caterpillar eat on Sunday that made him feel better?
+The Very Hungry Caterpillar,Eric Carle,gemini,FewShot,Wh-Question,What did the caterpillar build around himself?
+The Very Hungry Caterpillar,Eric Carle,gemini,FewShot,Wh-Question,What did the caterpillar eat on Monday?
+The Very Hungry Caterpillar,Eric Carle,gemini,FewShot,Open-Ended,Tell me about all the colors you see on the butterfly's wings.
+The Very Hungry Caterpillar,Eric Carle,gemini,FewShot,Open-Ended,How do you know the caterpillar was not hungry anymore?
+The Very Hungry Caterpillar,Eric Carle,gemini,FewShot,Distancing,What is a food that makes you feel very full?
+The Very Hungry Caterpillar,Eric Carle,gemini,FewShot,Distancing,Have you ever seen a real butterfly? What did it look like?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,FewShot,Completion,I see a red bird looking at ____.
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,FewShot,Completion,The white dog saw a black ____.
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,FewShot,Recall,What animal did the blue horse see?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,FewShot,Recall,What color was the cat in the story?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,FewShot,Wh-Question,What animal does the brown bear see?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,FewShot,Wh-Question,Who does the teacher see?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,FewShot,Open-Ended,Tell me about what you see on the page with the green frog.
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,FewShot,Open-Ended,Look at the last page with all the animals. Which animal do you like best?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,FewShot,Distancing,The book has a yellow duck. Where have you seen a duck before?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gemini,FewShot,Distancing,Have you ever seen a horse in real life?
+The Grouchy Ladybug,Eric Carle,gemini,FewShot,Completion,The grouchy ladybug wanted to _______.
+The Grouchy Ladybug,Eric Carle,gemini,FewShot,Completion,The whale slapped the ladybug with its _______.
+The Grouchy Ladybug,Eric Carle,gemini,FewShot,Recall,What did the two ladybugs see on the leaf to eat?
+The Grouchy Ladybug,Eric Carle,gemini,FewShot,Recall,What did the grouchy ladybug say to the friendly ladybug at the end of the story?
+The Grouchy Ladybug,Eric Carle,gemini,FewShot,Wh-Question,Who was the biggest animal the ladybug met?
+The Grouchy Ladybug,Eric Carle,gemini,FewShot,Wh-Question,Where did the story begin?
+The Grouchy Ladybug,Eric Carle,gemini,FewShot,Open-Ended,How do you know the ladybug was feeling grouchy?
+The Grouchy Ladybug,Eric Carle,gemini,FewShot,Open-Ended,Tell me what happened when the ladybug came back to the leaf at the end of the day.
+The Grouchy Ladybug,Eric Carle,gemini,FewShot,Distancing,The ladybug felt grouchy. What makes you feel grouchy?
+The Grouchy Ladybug,Eric Carle,gemini,FewShot,Distancing,The friendly ladybug shared her food. Tell me about a time you shared something with a friend.
+A House for a Hermit Crab,Eric Carle,gemini,FewShot,Completion,"In January, the Hermit Crab felt that his house was too ______."
+A House for a Hermit Crab,Eric Carle,gemini,FewShot,Completion,The hermit crab thought his new house looked too ______.
+A House for a Hermit Crab,Eric Carle,gemini,FewShot,Recall,What did the starfish do to the hermit crab's house?
+A House for a Hermit Crab,Eric Carle,gemini,FewShot,Recall,What happened when the hermit crab got too big for his shell?
+A House for a Hermit Crab,Eric Carle,gemini,FewShot,Wh-Question,Who did the hermit crab meet in the forest of seaweed?
+A House for a Hermit Crab,Eric Carle,gemini,FewShot,Wh-Question,What did the lanternfish help the hermit crab do?
+A House for a Hermit Crab,Eric Carle,gemini,FewShot,Open-Ended,Tell me about all the friends on the hermit crab's shell.
+A House for a Hermit Crab,Eric Carle,gemini,FewShot,Open-Ended,How do you think the small hermit crab felt when he got a new house?
+A House for a Hermit Crab,Eric Carle,gemini,FewShot,Distancing,Have you ever moved to a new house or a new classroom?
+A House for a Hermit Crab,Eric Carle,gemini,FewShot,Distancing,The hermit crab's friends helped him. How do your friends help you?
+Mister Seahorse,Eric Carle,gemini,FewShot,Completion,Mrs. Seahorse laid her eggs into a pouch on Mr. Seahorse's ______.
+Mister Seahorse,Eric Carle,gemini,FewShot,Completion,Mr. Tilapia could not answer because his mouth was full of ______.
+Mister Seahorse,Eric Carle,gemini,FewShot,Recall,Which fish father carried the eggs on his head?
+Mister Seahorse,Eric Carle,gemini,FewShot,Recall,What was Mr. Stickleback building for his eggs?
+Mister Seahorse,Eric Carle,gemini,FewShot,Wh-Question,Who asked Mr. Seahorse to take care of the eggs?
+Mister Seahorse,Eric Carle,gemini,FewShot,Wh-Question,What was hiding in the tall patch of weeds?
+Mister Seahorse,Eric Carle,gemini,FewShot,Open-Ended,Tell me what you see happening with Mr. Seahorse here.
+Mister Seahorse,Eric Carle,gemini,FewShot,Open-Ended,How do you think Mr. Seahorse felt when the babies swam away?
+Mister Seahorse,Eric Carle,gemini,FewShot,Distancing,Who takes care of you in your family?
+Mister Seahorse,Eric Carle,gemini,FewShot,Distancing,"Have you ever helped take care of something little, like a pet or a plant?"
+The Very Busy Spider,Eric Carle,gemini,FewShot,Completion,The horse wanted to go for a ______.
+The Very Busy Spider,Eric Carle,gemini,FewShot,Completion,The spider was very busy spinning her ______.
+The Very Busy Spider,Eric Carle,gemini,FewShot,Recall,What did the spider catch in her web?
+The Very Busy Spider,Eric Carle,gemini,FewShot,Recall,Which animal wanted to jump on the rocks?
+The Very Busy Spider,Eric Carle,gemini,FewShot,Wh-Question,Who asked the spider to go for a swim?
+The Very Busy Spider,Eric Carle,gemini,FewShot,Wh-Question,Where did the spider build her web?
+The Very Busy Spider,Eric Carle,gemini,FewShot,Open-Ended,Tell me what you see the spider doing on this page.
+The Very Busy Spider,Eric Carle,gemini,FewShot,Open-Ended,Why didn't the spider answer the other animals?
+The Very Busy Spider,Eric Carle,gemini,FewShot,Distancing,Have you ever been too busy to play?
+The Very Busy Spider,Eric Carle,gemini,FewShot,Distancing,The spider worked hard to build her home. Can you tell me about your home?
+The Mixed-Up Chameleon,Eric Carle,gemini,FewShot,Completion,"The chameleon's long, sticky tongue shot out and caught the ______."
+The Mixed-Up Chameleon,Eric Carle,gemini,FewShot,Completion,"At the end, the chameleon wished it could be ______."
+The Mixed-Up Chameleon,Eric Carle,gemini,FewShot,Recall,What animal did the chameleon get a long neck from?
+The Mixed-Up Chameleon,Eric Carle,gemini,FewShot,Recall,What was the chameleon hungry for when it was all mixed-up?
+The Mixed-Up Chameleon,Eric Carle,gemini,FewShot,Wh-Question,What did the chameleon see that had many beautiful animals?
+The Mixed-Up Chameleon,Eric Carle,gemini,FewShot,Wh-Question,What color did the chameleon turn when it was on the red flower?
+The Mixed-Up Chameleon,Eric Carle,gemini,FewShot,Open-Ended,Tell me why the chameleon couldn't catch the fly.
+The Mixed-Up Chameleon,Eric Carle,gemini,FewShot,Open-Ended,How do you think the chameleon felt when it wished to be itself again?
+The Mixed-Up Chameleon,Eric Carle,gemini,FewShot,Distancing,Tell me about a time you wished for something.
+The Mixed-Up Chameleon,Eric Carle,gemini,FewShot,Distancing,What is something special about you that makes you happy?
+"Pancakes, Pancakes!",Eric Carle,gemini,FewShot,Completion,"""I want a big pancake,"" said ________."
+"Pancakes, Pancakes!",Eric Carle,gemini,FewShot,Completion,Jack took the cream home and put it in a ________.
+"Pancakes, Pancakes!",Eric Carle,gemini,FewShot,Recall,What did Jack want to eat for breakfast?
+"Pancakes, Pancakes!",Eric Carle,gemini,FewShot,Recall,Where did Jack get the egg?
+"Pancakes, Pancakes!",Eric Carle,gemini,FewShot,Wh-Question,Who gave Jack the flour?
+"Pancakes, Pancakes!",Eric Carle,gemini,FewShot,Wh-Question,What did Jack get from the spotted cow?
+"Pancakes, Pancakes!",Eric Carle,gemini,FewShot,Open-Ended,Tell me what Jack is doing on this page with the wheat.
+"Pancakes, Pancakes!",Eric Carle,gemini,FewShot,Open-Ended,How do you think Jack feels when he finally eats the pancake?
+"Pancakes, Pancakes!",Eric Carle,gemini,FewShot,Distancing,Have you ever helped make pancakes at home?
+"Pancakes, Pancakes!",Eric Carle,gemini,FewShot,Distancing,What is your favorite food to eat for breakfast?
+10 Little Rubber Ducks,Eric Carle,gemini,FewShot,Completion,Overboard goes a box with 10 little rubber ______.
+10 Little Rubber Ducks,Eric Carle,gemini,FewShot,Completion,"The tenth little duck cried, ""______!"""
+10 Little Rubber Ducks,Eric Carle,gemini,FewShot,Recall,How many rubber ducks fell into the sea?
+10 Little Rubber Ducks,Eric Carle,gemini,FewShot,Recall,What animal did the fourth little duck meet?
+10 Little Rubber Ducks,Eric Carle,gemini,FewShot,Wh-Question,Where were the rubber ducks made?
+10 Little Rubber Ducks,Eric Carle,gemini,FewShot,Wh-Question,What happened to the box on the big ship?
+10 Little Rubber Ducks,Eric Carle,gemini,FewShot,Open-Ended,Tell me what you see happening in the storm.
+10 Little Rubber Ducks,Eric Carle,gemini,FewShot,Open-Ended,How do you think the tenth little duck felt when he met the real ducks?
+10 Little Rubber Ducks,Eric Carle,gemini,FewShot,Distancing,Have you ever played with a rubber duck in the bath?
+10 Little Rubber Ducks,Eric Carle,gemini,FewShot,Distancing,The ducks saw many animals in the sea. Have you ever seen a real animal in the water?
+"1,2,3 to the Zoo",Eric Carle,gemini,FewShot,Completion,The first train car has one big ________.
+"1,2,3 to the Zoo",Eric Carle,gemini,FewShot,Completion,The train is taking all the animals to the ________.
+"1,2,3 to the Zoo",Eric Carle,gemini,FewShot,Recall,How many hippos were in the second train car?
+"1,2,3 to the Zoo",Eric Carle,gemini,FewShot,Recall,What kind of animals were in the car with the number four on it?
+"1,2,3 to the Zoo",Eric Carle,gemini,FewShot,Wh-Question,Where are all the animals at the end of the story?
+"1,2,3 to the Zoo",Eric Carle,gemini,FewShot,Wh-Question,What is pulling the train?
+"1,2,3 to the Zoo",Eric Carle,gemini,FewShot,Open-Ended,Look at the monkeys. Tell me what they are doing.
+"1,2,3 to the Zoo",Eric Carle,gemini,FewShot,Open-Ended,Tell me what you see on the last page of the book.
+"1,2,3 to the Zoo",Eric Carle,gemini,FewShot,Distancing,Have you ever been to a zoo? What animals did you see?
+"1,2,3 to the Zoo",Eric Carle,gemini,FewShot,Distancing,What is your favorite animal?
+The Giving Tree,Shel Silverstein,gemini,FewShot,Completion,And the boy loved the tree very ________.
+The Giving Tree,Shel Silverstein,gemini,FewShot,Completion,"Come, Boy, come and climb up my ________."
+The Giving Tree,Shel Silverstein,gemini,FewShot,Recall,What did the boy make with the tree's leaves?
+The Giving Tree,Shel Silverstein,gemini,FewShot,Recall,What was left of the tree at the very end of the story?
+The Giving Tree,Shel Silverstein,gemini,FewShot,Wh-Question,What did the boy eat from the tree?
+The Giving Tree,Shel Silverstein,gemini,FewShot,Wh-Question,What did the boy build with the tree's branches?
+The Giving Tree,Shel Silverstein,gemini,FewShot,Open-Ended,Tell me what the boy and the tree did for fun at the start of the story.
+The Giving Tree,Shel Silverstein,gemini,FewShot,Open-Ended,How do you know the tree was happy?
+The Giving Tree,Shel Silverstein,gemini,FewShot,Distancing,The tree gave the boy her apples. Have you ever shared something with a friend?
+The Giving Tree,Shel Silverstein,gemini,FewShot,Distancing,This tree is a special friend. Tell me about a special friend you have.
+How to Hide a Lion,Helen Stephens,gemini,FewShot,Completion,"Iris tried to hide the lion behind the curtains, but his long, swishy ______ stuck out."
+How to Hide a Lion,Helen Stephens,gemini,FewShot,Completion,"The lion helped catch the robbers, and everyone said he was a ______."
+How to Hide a Lion,Helen Stephens,gemini,FewShot,Recall,What did Iris put on the lion's head?
+How to Hide a Lion,Helen Stephens,gemini,FewShot,Recall,Where did the lion hide with the other lions in the town square?
+How to Hide a Lion,Helen Stephens,gemini,FewShot,Wh-Question,Who found the lion in the little blue playhouse?
+How to Hide a Lion,Helen Stephens,gemini,FewShot,Wh-Question,What was the lion hiding from at the start of the story?
+How to Hide a Lion,Helen Stephens,gemini,FewShot,Open-Ended,Look at this page. How can you tell the grown-ups are scared of the lion?
+How to Hide a Lion,Helen Stephens,gemini,FewShot,Open-Ended,Why do you think Iris wanted to hide the lion?
+How to Hide a Lion,Helen Stephens,gemini,FewShot,Distancing,The lion was new in town and felt all alone. Have you ever felt all alone?
+How to Hide a Lion,Helen Stephens,gemini,FewShot,Distancing,Iris took care of the lion. Who takes care of you when you need help?
+Where the Wild Things Are,Maurice Sendak,gemini,FewShot,Completion,His mother sent him to his room without any ________.
+Where the Wild Things Are,Maurice Sendak,gemini,FewShot,Completion,The Wild Things made Max the ________ of all wild things.
+Where the Wild Things Are,Maurice Sendak,gemini,FewShot,Recall,What did Max wear when he made mischief?
+Where the Wild Things Are,Maurice Sendak,gemini,FewShot,Recall,What did Max find in his room when he sailed back home?
+Where the Wild Things Are,Maurice Sendak,gemini,FewShot,Wh-Question,Where did a forest grow?
+Where the Wild Things Are,Maurice Sendak,gemini,FewShot,Wh-Question,What did Max use to travel across the ocean?
+Where the Wild Things Are,Maurice Sendak,gemini,FewShot,Open-Ended,Look at this page. How can you tell the Wild Things are sad Max is leaving?
+Where the Wild Things Are,Maurice Sendak,gemini,FewShot,Open-Ended,Tell me what is happening during the wild rumpus.
+Where the Wild Things Are,Maurice Sendak,gemini,FewShot,Distancing,Max felt angry. What do you do when you feel angry?
+Where the Wild Things Are,Maurice Sendak,gemini,FewShot,Distancing,"Tell me about a time you missed your home, just like Max did."
+Rosie's Walk,Pat Hutchins,gemini,FewShot,Completion,Rosie the hen went for a walk across the ______.
+Rosie's Walk,Pat Hutchins,gemini,FewShot,Completion,She got back in time for ______.
+Rosie's Walk,Pat Hutchins,gemini,FewShot,Recall,Who went for a walk in the story?
+Rosie's Walk,Pat Hutchins,gemini,FewShot,Recall,What did the fox step on in the yard?
+Rosie's Walk,Pat Hutchins,gemini,FewShot,Wh-Question,Who followed Rosie on her walk?
+Rosie's Walk,Pat Hutchins,gemini,FewShot,Wh-Question,What did Rosie walk over?
+Rosie's Walk,Pat Hutchins,gemini,FewShot,Open-Ended,Look at this picture. Tell me what is happening to the fox.
+Rosie's Walk,Pat Hutchins,gemini,FewShot,Open-Ended,Why do you think the fox is following Rosie?
+Rosie's Walk,Pat Hutchins,gemini,FewShot,Distancing,Have you ever seen a chicken? Where did you see it?
+Rosie's Walk,Pat Hutchins,gemini,FewShot,Distancing,Tell me about a time you went for a walk outside.
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,FewShot,Completion,Alma wrote her name on a piece of _______.
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,FewShot,Completion,"Her daddy said that Alma was for her, so she could make her own _______."
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,FewShot,Recall,What did Alma think about her name at the beginning of the story?
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,FewShot,Recall,What did Alma's grandfather José like to do?
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,FewShot,Wh-Question,Who told Alma the story of her name?
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,FewShot,Wh-Question,What did Alma's grandmother Sofía love?
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,FewShot,Open-Ended,How do you think Alma felt when she learned her name was special?
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,FewShot,Open-Ended,Tell me about one of the people Alma was named after.
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,FewShot,Distancing,Do you know the story of how you got your name?
+Alma and How She Got Her Name,Juana Martinez-Neal,gemini,FewShot,Distancing,Tell me about someone special in your family.
+Mae Among the Stars,Roda Ahmed,gemini,FewShot,Completion,"Her mom said, ""If you can dream it, if you believe in it and work hard for it, anything is ______."""
+Mae Among the Stars,Roda Ahmed,gemini,FewShot,Completion,Mae went to the library and took out books about ______.
+Mae Among the Stars,Roda Ahmed,gemini,FewShot,Recall,What did Mae dream of being when she grew up?
+Mae Among the Stars,Roda Ahmed,gemini,FewShot,Recall,What did Mae's teacher tell her to be instead of an astronaut?
+Mae Among the Stars,Roda Ahmed,gemini,FewShot,Wh-Question,Who told Mae that her dream was possible?
+Mae Among the Stars,Roda Ahmed,gemini,FewShot,Wh-Question,Where did Mae go to learn more about space?
+Mae Among the Stars,Roda Ahmed,gemini,FewShot,Open-Ended,How do you think Mae felt when her teacher did not believe in her dream?
+Mae Among the Stars,Roda Ahmed,gemini,FewShot,Open-Ended,Tell me what Mae is doing with the boxes and tubes in her room.
+Mae Among the Stars,Roda Ahmed,gemini,FewShot,Distancing,What is a dream you have for when you grow up?
+Mae Among the Stars,Roda Ahmed,gemini,FewShot,Distancing,Have you ever worked hard to learn something new?
+Lubna and Pebble,Wendy Meddour,gemini,FewShot,Completion,"Lubna found a smooth, grey ________."
+Lubna and Pebble,Wendy Meddour,gemini,FewShot,Completion,Lubna drew a happy face on Pebble with a ________.
+Lubna and Pebble,Wendy Meddour,gemini,FewShot,Recall,What did Lubna name her best friend?
+Lubna and Pebble,Wendy Meddour,gemini,FewShot,Recall,Who did Lubna give Pebble to when she had to leave?
+Lubna and Pebble,Wendy Meddour,gemini,FewShot,Wh-Question,What did Lubna and her Daddy live in?
+Lubna and Pebble,Wendy Meddour,gemini,FewShot,Wh-Question,Who is the little boy who came to the camp?
+Lubna and Pebble,Wendy Meddour,gemini,FewShot,Open-Ended,Tell me how Lubna made Pebble her friend.
+Lubna and Pebble,Wendy Meddour,gemini,FewShot,Open-Ended,How do you think Amir felt when he got Pebble?
+Lubna and Pebble,Wendy Meddour,gemini,FewShot,Distancing,Have you ever had a special toy that was your friend?
+Lubna and Pebble,Wendy Meddour,gemini,FewShot,Distancing,What is something special you have shared with someone?
+Can I Be Your Dog?,Troy Cummings,gemini,FewShot,Completion,"The letter to the fire station says, ""I can fetch your ________."""
+Can I Be Your Dog?,Troy Cummings,gemini,FewShot,Completion,"Arfy promised the Butcher, ""I promise not to ________ on the furniture."""
+Can I Be Your Dog?,Troy Cummings,gemini,FewShot,Recall,What does Arfy the dog live in?
+Can I Be Your Dog?,Troy Cummings,gemini,FewShot,Recall,Who wrote a letter back to Arfy at the end?
+Can I Be Your Dog?,Troy Cummings,gemini,FewShot,Wh-Question,What did Arfy write to find a home?
+Can I Be Your Dog?,Troy Cummings,gemini,FewShot,Wh-Question,Who finally gave Arfy a home?
+Can I Be Your Dog?,Troy Cummings,gemini,FewShot,Open-Ended,"How do you think Arfy felt when he kept getting letters that said ""no""?"
+Can I Be Your Dog?,Troy Cummings,gemini,FewShot,Open-Ended,Why do you think the mail carrier gave Arfy a home?
+Can I Be Your Dog?,Troy Cummings,gemini,FewShot,Distancing,Have you ever seen a mail carrier bring letters to your house?
+Can I Be Your Dog?,Troy Cummings,gemini,FewShot,Distancing,Arfy was looking for a family. Who is in your family?
+Last Stop on Market Street,Matt de la Peña,gemini,FewShot,Completion,The bus breathed out and opened its ________.
+Last Stop on Market Street,Matt de la Peña,gemini,FewShot,Completion,"Right when they made it to the bus stop, the rain came ________ down."
+Last Stop on Market Street,Matt de la Peña,gemini,FewShot,Recall,What did CJ and Nana do before they waited for the bus?
+Last Stop on Market Street,Matt de la Peña,gemini,FewShot,Recall,What was the man on the bus playing?
+Last Stop on Market Street,Matt de la Peña,gemini,FewShot,Wh-Question,Where did CJ and Nana get off the bus?
+Last Stop on Market Street,Matt de la Peña,gemini,FewShot,Wh-Question,Who did CJ see on the bus with a dog?
+Last Stop on Market Street,Matt de la Peña,gemini,FewShot,Open-Ended,How can you tell that CJ is not happy about waiting in the rain?
+Last Stop on Market Street,Matt de la Peña,gemini,FewShot,Open-Ended,Tell me about the music the man played on the bus.
+Last Stop on Market Street,Matt de la Peña,gemini,FewShot,Distancing,Have you ever ridden on a bus? Tell me about it.
+Last Stop on Market Street,Matt de la Peña,gemini,FewShot,Distancing,What is a beautiful sound that you like to hear?
+This Is Not My Hat,Jon Klassen,gemini,FewShot,Completion,"The small fish said, ""This hat is not ______."""
+This Is Not My Hat,Jon Klassen,gemini,FewShot,Completion,He is going where the plants are big and tall and close ______.
+This Is Not My Hat,Jon Klassen,gemini,FewShot,Recall,What did the little fish take from the big fish?
+This Is Not My Hat,Jon Klassen,gemini,FewShot,Recall,Who saw the little fish swim away with the hat?
+This Is Not My Hat,Jon Klassen,gemini,FewShot,Wh-Question,What is the big fish doing at the beginning of the story?
+This Is Not My Hat,Jon Klassen,gemini,FewShot,Wh-Question,Where is the little fish going to hide?
+This Is Not My Hat,Jon Klassen,gemini,FewShot,Open-Ended,Look at this page. How can you tell the big fish is awake now?
+This Is Not My Hat,Jon Klassen,gemini,FewShot,Open-Ended,Why do you think the little fish wanted to hide from the big fish?
+This Is Not My Hat,Jon Klassen,gemini,FewShot,Distancing,Have you ever lost something that was special to you?
+This Is Not My Hat,Jon Klassen,gemini,FewShot,Distancing,Tell me about a time you tried to hide.
+Watercress,Andrea Wang,gemini,FewShot,Completion,The family stopped the car when they saw watercress growing in a _______.
+Watercress,Andrea Wang,gemini,FewShot,Completion,They put all the watercress they picked into a brown paper ______.
+Watercress,Andrea Wang,gemini,FewShot,Recall,What did the family pick from the side of the road?
+Watercress,Andrea Wang,gemini,FewShot,Recall,Who told a story about their family during dinner?
+Watercress,Andrea Wang,gemini,FewShot,Wh-Question,Where did the family find the watercress?
+Watercress,Andrea Wang,gemini,FewShot,Wh-Question,What did the children have to take off before going into the water?
+Watercress,Andrea Wang,gemini,FewShot,Open-Ended,How do you think the girl felt when she had to get into the mucky water?
+Watercress,Andrea Wang,gemini,FewShot,Open-Ended,Why do you think the girl's mom was so happy to find the watercress?
+Watercress,Andrea Wang,gemini,FewShot,Distancing,Have you ever helped your family make a meal?
+Watercress,Andrea Wang,gemini,FewShot,Distancing,Tell me about a time you tried a new food.
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,FewShot,Completion,"On Monday, the caterpillar ate through one green ________."
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,FewShot,Completion,The caterpillar was very hungry and ate through many pieces of ________.
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,FewShot,Recall,What did the caterpillar eat first?
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,FewShot,Recall,How many pieces of fruit did the caterpillar eat on Tuesday?
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,FewShot,Wh-Question,What did the caterpillar become at the end of the story?
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,FewShot,Wh-Question,Where did the caterpillar live before it turned into a butterfly?
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,FewShot,Open-Ended,Tell me what you see on the page where the caterpillar eats lots of food.
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,FewShot,Open-Ended,How do you think the caterpillar felt when it was hungry?
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,FewShot,Distancing,What is your favorite fruit to eat like the caterpillar?
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,FewShot,Distancing,Can you tell me about a time when you felt very hungry?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,FewShot,Completion,Brown Bear saw a red bird looking at _________.
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,FewShot,Completion,"The yellow duck said, ""I see a ________ looking at me."""
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,FewShot,Recall,What color was the bear in the story?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,FewShot,Recall,Who did the brown bear see first?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,FewShot,Wh-Question,What animal did the red bird see?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,FewShot,Wh-Question,What color was the frog in the story?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,FewShot,Open-Ended,Tell me what you see on the page with the green frog.
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,FewShot,Open-Ended,How do you think the animals feel when they see each other?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,FewShot,Distancing,Have you ever seen a brown bear or a red bird outside? What did you do?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,FewShot,Distancing,What do you like to see when you go to the park or the zoo?
+The Grouchy Ladybug,Eric Carle,gpt5.1,FewShot,Completion,"The grouchy ladybug said, ""I am the ________."""
+The Grouchy Ladybug,Eric Carle,gpt5.1,FewShot,Completion,The ladybug fought with the ________ and won.
+The Grouchy Ladybug,Eric Carle,gpt5.1,FewShot,Recall,What did the grouchy ladybug want to find?
+The Grouchy Ladybug,Eric Carle,gpt5.1,FewShot,Recall,Who did the ladybug meet first?
+The Grouchy Ladybug,Eric Carle,gpt5.1,FewShot,Wh-Question,What kind of animals did the ladybug meet?
+The Grouchy Ladybug,Eric Carle,gpt5.1,FewShot,Wh-Question,Where did the ladybug go to find a fight?
+The Grouchy Ladybug,Eric Carle,gpt5.1,FewShot,Open-Ended,How do you think the ladybug felt when no one wanted to fight?
+The Grouchy Ladybug,Eric Carle,gpt5.1,FewShot,Open-Ended,Tell me what you would do if you met a grouchy ladybug.
+The Grouchy Ladybug,Eric Carle,gpt5.1,FewShot,Distancing,What do you do when you feel angry like the ladybug?
+The Grouchy Ladybug,Eric Carle,gpt5.1,FewShot,Distancing,Have you ever tried to make a new friend? What happened?
+A House for a Hermit Crab,Eric Carle,gpt5.1,FewShot,Completion,The hermit crab found a new ______ to live in.
+A House for a Hermit Crab,Eric Carle,gpt5.1,FewShot,Completion,The crab put a shiny ______ on his shell.
+A House for a Hermit Crab,Eric Carle,gpt5.1,FewShot,Recall,What did the hermit crab do when his shell got too small?
+A House for a Hermit Crab,Eric Carle,gpt5.1,FewShot,Recall,Which sea creature added a starfish to the crab’s shell?
+A House for a Hermit Crab,Eric Carle,gpt5.1,FewShot,Wh-Question,What kind of animal is the main character?
+A House for a Hermit Crab,Eric Carle,gpt5.1,FewShot,Wh-Question,What did the hermit crab find at the bottom of the sea?
+A House for a Hermit Crab,Eric Carle,gpt5.1,FewShot,Open-Ended,Tell me about the new shell the hermit crab found.
+A House for a Hermit Crab,Eric Carle,gpt5.1,FewShot,Open-Ended,How do you think the hermit crab felt when he got a new shell?
+A House for a Hermit Crab,Eric Carle,gpt5.1,FewShot,Distancing,Have you ever moved to a new home? What was it like?
+A House for a Hermit Crab,Eric Carle,gpt5.1,FewShot,Distancing,What do you like to put on your toys or things you own?
+Mister Seahorse,Eric Carle,gpt5.1,FewShot,Completion,The daddy seahorse carries the eggs in a special ______.
+Mister Seahorse,Eric Carle,gpt5.1,FewShot,Completion,The seahorse swims with its tail wrapped around a ______.
+Mister Seahorse,Eric Carle,gpt5.1,FewShot,Recall,Who takes care of the eggs in the story?
+Mister Seahorse,Eric Carle,gpt5.1,FewShot,Recall,What kind of animals does Mister Seahorse meet?
+Mister Seahorse,Eric Carle,gpt5.1,FewShot,Wh-Question,What does the daddy seahorse do with the eggs?
+Mister Seahorse,Eric Carle,gpt5.1,FewShot,Wh-Question,Where do the seahorses live?
+Mister Seahorse,Eric Carle,gpt5.1,FewShot,Open-Ended,Tell me how the daddy seahorse helps the baby seahorses.
+Mister Seahorse,Eric Carle,gpt5.1,FewShot,Open-Ended,What do you see on the page with the sea dragons?
+Mister Seahorse,Eric Carle,gpt5.1,FewShot,Distancing,Have you ever helped take care of a pet or animal?
+Mister Seahorse,Eric Carle,gpt5.1,FewShot,Distancing,What do you do to help your family at home?
+The Very Busy Spider,Eric Carle,gpt5.1,FewShot,Completion,The spider spun her web on the _______.
+The Very Busy Spider,Eric Carle,gpt5.1,FewShot,Completion,"The horse said, ""______,"" but the spider kept spinning her web."
+The Very Busy Spider,Eric Carle,gpt5.1,FewShot,Recall,What did the spider do all day?
+The Very Busy Spider,Eric Carle,gpt5.1,FewShot,Recall,Which animals tried to talk to the spider?
+The Very Busy Spider,Eric Carle,gpt5.1,FewShot,Wh-Question,What did the spider use to make her web?
+The Very Busy Spider,Eric Carle,gpt5.1,FewShot,Wh-Question,Who came to visit the spider while she worked?
+The Very Busy Spider,Eric Carle,gpt5.1,FewShot,Open-Ended,Tell me what the spider was doing on the farm.
+The Very Busy Spider,Eric Carle,gpt5.1,FewShot,Open-Ended,How do you think the spider felt while spinning her web?
+The Very Busy Spider,Eric Carle,gpt5.1,FewShot,Distancing,Have you ever made something that took a long time to finish?
+The Very Busy Spider,Eric Carle,gpt5.1,FewShot,Distancing,What do you do when you want to finish an important job?
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,FewShot,Completion,The chameleon changed its color to _______ when it saw the leaves.
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,FewShot,Completion,The chameleon wanted to have the _______ of the other animals.
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,FewShot,Recall,What did the chameleon do when it saw the bright red flowers?
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,FewShot,Recall,Which animal’s tail did the chameleon wish to have?
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,FewShot,Wh-Question,What color was the chameleon at the start of the story?
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,FewShot,Wh-Question,What did the chameleon want to change about itself?
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,FewShot,Open-Ended,Tell me why the chameleon wanted to be different animals.
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,FewShot,Open-Ended,How do you think the chameleon felt when it changed colors?
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,FewShot,Distancing,Have you ever wanted to be like someone else? What did you want to be?
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,FewShot,Distancing,What do you do when you feel different from others?
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,FewShot,Completion,Johnny needed to get some _______ to make pancakes.
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,FewShot,Completion,"To make pancakes, Johnny had to grind the _______ into flour."
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,FewShot,Recall,What did Johnny use to grind the wheat?
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,FewShot,Recall,Who helped Johnny gather the eggs?
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,FewShot,Wh-Question,What did Johnny mix to make the pancake batter?
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,FewShot,Wh-Question,Where did Johnny get the milk from?
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,FewShot,Open-Ended,Tell me how Johnny made the pancakes.
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,FewShot,Open-Ended,What do you like to put on your pancakes?
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,FewShot,Distancing,Have you ever helped cook or make food at home? What did you do?
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,FewShot,Distancing,What do you feel when you eat pancakes for breakfast?
+10 Little Rubber Ducks,Eric Carle,gpt5.1,FewShot,Completion,Ten little rubber ducks went floating on the _________.
+10 Little Rubber Ducks,Eric Carle,gpt5.1,FewShot,Completion,The little rubber duck named Quack went to the _________.
+10 Little Rubber Ducks,Eric Carle,gpt5.1,FewShot,Recall,How many little rubber ducks were there at the start?
+10 Little Rubber Ducks,Eric Carle,gpt5.1,FewShot,Recall,What happened to the ducks when the storm came?
+10 Little Rubber Ducks,Eric Carle,gpt5.1,FewShot,Wh-Question,What color was the rubber duck that went to the Arctic?
+10 Little Rubber Ducks,Eric Carle,gpt5.1,FewShot,Wh-Question,Where did the duck named Quack float to?
+10 Little Rubber Ducks,Eric Carle,gpt5.1,FewShot,Open-Ended,Tell me what you see on the page with the ten little rubber ducks.
+10 Little Rubber Ducks,Eric Carle,gpt5.1,FewShot,Open-Ended,How do you think the ducks felt when they were floating in the ocean?
+10 Little Rubber Ducks,Eric Carle,gpt5.1,FewShot,Distancing,Have you ever played with rubber ducks in the bath? What did you do?
+10 Little Rubber Ducks,Eric Carle,gpt5.1,FewShot,Distancing,"What do you do when you find something new in the water, like the ducks?"
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,FewShot,Completion,The little boy counted ______ before going to the zoo.
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,FewShot,Completion,"At the zoo, he saw a big ______ with a long neck."
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,FewShot,Recall,What animals did the boy see at the zoo?
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,FewShot,Recall,How did the boy travel to the zoo?
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,FewShot,Wh-Question,What did the boy count on his fingers?
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,FewShot,Wh-Question,Where did the boy go to see the animals?
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,FewShot,Open-Ended,Tell me about your favorite animal at the zoo.
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,FewShot,Open-Ended,How do you feel when you visit a place with many animals?
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,FewShot,Distancing,Have you ever been to a zoo? What animals did you see?
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,FewShot,Distancing,"What do you do when you count things, like the boy in the story?"
+The Giving Tree,Shel Silverstein,gpt5.1,FewShot,Completion,The tree gave the boy her ______ so he could build a house.
+The Giving Tree,Shel Silverstein,gpt5.1,FewShot,Completion,The boy climbed up the tree and swung from the ______.
+The Giving Tree,Shel Silverstein,gpt5.1,FewShot,Recall,What did the boy take from the tree when he was a little boy?
+The Giving Tree,Shel Silverstein,gpt5.1,FewShot,Recall,How did the tree feel when the boy left her?
+The Giving Tree,Shel Silverstein,gpt5.1,FewShot,Wh-Question,What did the boy do with the tree’s apples?
+The Giving Tree,Shel Silverstein,gpt5.1,FewShot,Wh-Question,Where did the boy rest at the end of the story?
+The Giving Tree,Shel Silverstein,gpt5.1,FewShot,Open-Ended,Tell me how the tree helped the boy.
+The Giving Tree,Shel Silverstein,gpt5.1,FewShot,Open-Ended,What would you do if you had a tree like this?
+The Giving Tree,Shel Silverstein,gpt5.1,FewShot,Distancing,Have you ever shared something special with a friend?
+The Giving Tree,Shel Silverstein,gpt5.1,FewShot,Distancing,What do you do when you feel happy to help someone?
+How to Hide a Lion,Helen Stephens,gpt5.1,FewShot,Completion,The boy tried to hide the lion in the ________ so no one could see it.
+How to Hide a Lion,Helen Stephens,gpt5.1,FewShot,Completion,The lion was very big and had a _______ tail.
+How to Hide a Lion,Helen Stephens,gpt5.1,FewShot,Recall,What did the boy use to hide the lion?
+How to Hide a Lion,Helen Stephens,gpt5.1,FewShot,Recall,How did the lion behave when the boy tried to hide it?
+How to Hide a Lion,Helen Stephens,gpt5.1,FewShot,Wh-Question,What color was the lion?
+How to Hide a Lion,Helen Stephens,gpt5.1,FewShot,Wh-Question,Where did the boy take the lion?
+How to Hide a Lion,Helen Stephens,gpt5.1,FewShot,Open-Ended,Tell me how the boy tried to hide the lion.
+How to Hide a Lion,Helen Stephens,gpt5.1,FewShot,Open-Ended,What do you think it would be like to have a lion as a pet?
+How to Hide a Lion,Helen Stephens,gpt5.1,FewShot,Distancing,Have you ever tried to hide something from someone? What did you hide?
+How to Hide a Lion,Helen Stephens,gpt5.1,FewShot,Distancing,What do you do when you want to keep a secret from your friends?
+Where the Wild Things Are,Maurice Sendak,gpt5.1,FewShot,Completion,Max wore his crown and his __________.
+Where the Wild Things Are,Maurice Sendak,gpt5.1,FewShot,Completion,The wild things roared and showed their __________.
+Where the Wild Things Are,Maurice Sendak,gpt5.1,FewShot,Recall,What did Max say to the wild things to stop them?
+Where the Wild Things Are,Maurice Sendak,gpt5.1,FewShot,Recall,Where did Max sail to in his boat?
+Where the Wild Things Are,Maurice Sendak,gpt5.1,FewShot,Wh-Question,Who is the main character in the story?
+Where the Wild Things Are,Maurice Sendak,gpt5.1,FewShot,Wh-Question,What did Max make in his room?
+Where the Wild Things Are,Maurice Sendak,gpt5.1,FewShot,Open-Ended,Tell me how Max felt when he was with the wild things.
+Where the Wild Things Are,Maurice Sendak,gpt5.1,FewShot,Open-Ended,What would you do if you met wild things like Max?
+Where the Wild Things Are,Maurice Sendak,gpt5.1,FewShot,Distancing,What do you do when you feel angry like Max?
+Where the Wild Things Are,Maurice Sendak,gpt5.1,FewShot,Distancing,Have you ever made a pretend crown or costume like Max did?
+Rosie's Walk,Pat Hutchins,gpt5.1,FewShot,Completion,Rosie walked past the ______ and kept going.
+Rosie's Walk,Pat Hutchins,gpt5.1,FewShot,Completion,Rosie the hen walked all around the ______.
+Rosie's Walk,Pat Hutchins,gpt5.1,FewShot,Recall,What animal was following Rosie quietly?
+Rosie's Walk,Pat Hutchins,gpt5.1,FewShot,Recall,Where did Rosie go on her walk?
+Rosie's Walk,Pat Hutchins,gpt5.1,FewShot,Wh-Question,What did Rosie see on her walk?
+Rosie's Walk,Pat Hutchins,gpt5.1,FewShot,Wh-Question,Who was hiding behind the bushes?
+Rosie's Walk,Pat Hutchins,gpt5.1,FewShot,Open-Ended,Tell me what you see in the pictures when Rosie walks.
+Rosie's Walk,Pat Hutchins,gpt5.1,FewShot,Open-Ended,How do you think Rosie feels during her walk?
+Rosie's Walk,Pat Hutchins,gpt5.1,FewShot,Distancing,Have you ever gone on a walk outside like Rosie? What did you see?
+Rosie's Walk,Pat Hutchins,gpt5.1,FewShot,Distancing,What do you do when you see an animal outside?
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,FewShot,Completion,Alma's full name is Alma Sofia Esperanza José Pura Candela. Alma got her long name because her _______ told her stories about it.
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,FewShot,Completion,Alma learned that every part of her name has a special meaning from her _______.
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,FewShot,Recall,Who told Alma the story about how she got her name?
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,FewShot,Recall,What did Alma learn about the names in her family?
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,FewShot,Wh-Question,What is Alma's full name?
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,FewShot,Wh-Question,Who helped Alma understand her name?
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,FewShot,Open-Ended,Tell me what you think about Alma’s name.
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,FewShot,Open-Ended,How do you feel when you hear your name?
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,FewShot,Distancing,What does your name mean or who gave you your name?
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,FewShot,Distancing,Have you ever heard a story about your family like Alma did?
+Mae Among the Stars,Roda Ahmed,gpt5.1,FewShot,Completion,Mae dreamed of becoming an astronaut and flying to the ________.
+Mae Among the Stars,Roda Ahmed,gpt5.1,FewShot,Completion,Mae's parents told her to keep trying and never give ________.
+Mae Among the Stars,Roda Ahmed,gpt5.1,FewShot,Recall,What did Mae want to be when she grew up?
+Mae Among the Stars,Roda Ahmed,gpt5.1,FewShot,Recall,Who helped Mae believe in her dreams?
+Mae Among the Stars,Roda Ahmed,gpt5.1,FewShot,Wh-Question,What did Mae wear to go to space?
+Mae Among the Stars,Roda Ahmed,gpt5.1,FewShot,Wh-Question,Where did Mae go in her rocket?
+Mae Among the Stars,Roda Ahmed,gpt5.1,FewShot,Open-Ended,Tell me what Mae did when people said she could not be an astronaut.
+Mae Among the Stars,Roda Ahmed,gpt5.1,FewShot,Open-Ended,How do you think Mae felt when she saw the stars?
+Mae Among the Stars,Roda Ahmed,gpt5.1,FewShot,Distancing,Have you ever tried something that was hard but kept trying?
+Mae Among the Stars,Roda Ahmed,gpt5.1,FewShot,Distancing,What do you do when someone tells you that you cannot do something?
+Lubna and Pebble,Wendy Meddour,gpt5.1,FewShot,Completion,Lubna found a _______ on the beach.
+Lubna and Pebble,Wendy Meddour,gpt5.1,FewShot,Completion,Lubna took the pebble with her to _______.
+Lubna and Pebble,Wendy Meddour,gpt5.1,FewShot,Recall,What did Lubna do with the pebble?
+Lubna and Pebble,Wendy Meddour,gpt5.1,FewShot,Recall,Who did Lubna meet at the beach?
+Lubna and Pebble,Wendy Meddour,gpt5.1,FewShot,Wh-Question,What did Lubna use to carry the pebble?
+Lubna and Pebble,Wendy Meddour,gpt5.1,FewShot,Wh-Question,Where did Lubna find the pebble?
+Lubna and Pebble,Wendy Meddour,gpt5.1,FewShot,Open-Ended,Tell me how Lubna felt when she found the pebble.
+Lubna and Pebble,Wendy Meddour,gpt5.1,FewShot,Open-Ended,What do you think Lubna will do with the pebble?
+Lubna and Pebble,Wendy Meddour,gpt5.1,FewShot,Distancing,Have you ever found something special outside? What was it?
+Lubna and Pebble,Wendy Meddour,gpt5.1,FewShot,Distancing,What do you do when you want to keep a special treasure safe?
+Can I Be Your Dog?,Troy Cummings,gpt5.1,FewShot,Completion,"The boy asked, ""Can I be your ______?"""
+Can I Be Your Dog?,Troy Cummings,gpt5.1,FewShot,Completion,The dog looked at the boy and wagged his ______.
+Can I Be Your Dog?,Troy Cummings,gpt5.1,FewShot,Recall,What did the boy want to be?
+Can I Be Your Dog?,Troy Cummings,gpt5.1,FewShot,Recall,Who did the boy want to be friends with?
+Can I Be Your Dog?,Troy Cummings,gpt5.1,FewShot,Wh-Question,What kind of animal is in the story?
+Can I Be Your Dog?,Troy Cummings,gpt5.1,FewShot,Wh-Question,What does the boy say to the dog?
+Can I Be Your Dog?,Troy Cummings,gpt5.1,FewShot,Open-Ended,Tell me how the boy feels when he sees the dog.
+Can I Be Your Dog?,Troy Cummings,gpt5.1,FewShot,Open-Ended,What do you think the dog is thinking?
+Can I Be Your Dog?,Troy Cummings,gpt5.1,FewShot,Distancing,Have you ever wanted to be friends with a pet?
+Can I Be Your Dog?,Troy Cummings,gpt5.1,FewShot,Distancing,What do you do when you meet a new friend?
+Last Stop on Market Street,Matt de la Peña,gpt5.1,FewShot,Completion,CJ and his grandma rode the _______ to get home.
+Last Stop on Market Street,Matt de la Peña,gpt5.1,FewShot,Completion,"Grandma said, ""Sometimes you have to find the _______ in the city."""
+Last Stop on Market Street,Matt de la Peña,gpt5.1,FewShot,Recall,What did CJ and his grandma see on the bus?
+Last Stop on Market Street,Matt de la Peña,gpt5.1,FewShot,Recall,Who did CJ talk to while riding the bus?
+Last Stop on Market Street,Matt de la Peña,gpt5.1,FewShot,Wh-Question,What did CJ's grandma point out to him?
+Last Stop on Market Street,Matt de la Peña,gpt5.1,FewShot,Wh-Question,Where did CJ and his grandma get off the bus?
+Last Stop on Market Street,Matt de la Peña,gpt5.1,FewShot,Open-Ended,Tell me what CJ noticed about the city on their bus ride.
+Last Stop on Market Street,Matt de la Peña,gpt5.1,FewShot,Open-Ended,How do you think CJ felt when he saw all the different people?
+Last Stop on Market Street,Matt de la Peña,gpt5.1,FewShot,Distancing,Have you ever ridden a bus or a big vehicle like CJ? What was it like?
+Last Stop on Market Street,Matt de la Peña,gpt5.1,FewShot,Distancing,"What do you like to do when you spend time with someone special, like CJ with his grandma?"
+This Is Not My Hat,Jon Klassen,gpt5.1,FewShot,Completion,The little fish took the big fish’s _______ and thought he would not get caught.
+This Is Not My Hat,Jon Klassen,gpt5.1,FewShot,Completion,"The big fish said, ""I will find out who took my _______."""
+This Is Not My Hat,Jon Klassen,gpt5.1,FewShot,Recall,What did the little fish take from the big fish?
+This Is Not My Hat,Jon Klassen,gpt5.1,FewShot,Recall,How did the big fish feel when he lost his hat?
+This Is Not My Hat,Jon Klassen,gpt5.1,FewShot,Wh-Question,What did the little fish plan to do with the hat?
+This Is Not My Hat,Jon Klassen,gpt5.1,FewShot,Wh-Question,Who was looking for the little fish at the end?
+This Is Not My Hat,Jon Klassen,gpt5.1,FewShot,Open-Ended,Tell me why the little fish thought he would not get caught.
+This Is Not My Hat,Jon Klassen,gpt5.1,FewShot,Open-Ended,What do you think the big fish will do next?
+This Is Not My Hat,Jon Klassen,gpt5.1,FewShot,Distancing,What do you do when you lose something important?
+This Is Not My Hat,Jon Klassen,gpt5.1,FewShot,Distancing,Have you ever taken something and felt scared someone would find out?
+Watercress,Andrea Wang,gpt5.1,FewShot,Completion,The family found watercress growing by the _________.
+Watercress,Andrea Wang,gpt5.1,FewShot,Completion,The girl’s mother told her to help pick the _________.
+Watercress,Andrea Wang,gpt5.1,FewShot,Recall,What did the family do with the watercress they picked?
+Watercress,Andrea Wang,gpt5.1,FewShot,Recall,Who went with the girl to pick watercress?
+Watercress,Andrea Wang,gpt5.1,FewShot,Wh-Question,What did the girl see in the water?
+Watercress,Andrea Wang,gpt5.1,FewShot,Wh-Question,Where did the family find the watercress?
+Watercress,Andrea Wang,gpt5.1,FewShot,Open-Ended,Tell me how the girl felt when she picked the watercress.
+Watercress,Andrea Wang,gpt5.1,FewShot,Open-Ended,What do you think the watercress looks like?
+Watercress,Andrea Wang,gpt5.1,FewShot,Distancing,Have you ever helped pick vegetables or plants outside?
+Watercress,Andrea Wang,gpt5.1,FewShot,Distancing,What do you do when you try a new food for the first time?
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,ZeroShot,Completion,The caterpillar was very hungry and ate ____.
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,ZeroShot,Completion,"After eating a lot, the caterpillar turned into a ____."
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,ZeroShot,Recall,What did the caterpillar eat on Monday?
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,ZeroShot,Recall,How many pieces of food did the caterpillar eat on Saturday?
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,ZeroShot,Wh-Question,Where did the caterpillar come from at the beginning of the story?
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,ZeroShot,Wh-Question,Why did the caterpillar eat so much food?
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,ZeroShot,Open-Ended,What would you eat if you were a very hungry caterpillar?
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,ZeroShot,Open-Ended,How do you think the caterpillar felt after eating so much food?
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,ZeroShot,Distancing,Have you ever been as hungry as the caterpillar? What did you eat?
+The Very Hungry Caterpillar,Eric Carle,gpt5.1,ZeroShot,Distancing,"Can you think of a time when you changed, like the caterpillar turned into a butterfly?"
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,ZeroShot,Completion,"Brown Bear, Brown Bear, what do you see? I see a ______ looking at me."
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,ZeroShot,Completion,The red bird is ______ and flying in the sky.
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,ZeroShot,Recall,What color is the horse in the book?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,ZeroShot,Recall,Which animal comes after the yellow duck?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,ZeroShot,Wh-Question,What does the brown bear see?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,ZeroShot,Wh-Question,Who do you see after the green frog?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,ZeroShot,Open-Ended,Why do you think the animals are looking at each other?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,ZeroShot,Open-Ended,What animal would you like to see if you wrote your own version of this book?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,ZeroShot,Distancing,Have you ever seen a brown bear or a red bird outside? What did they look like?
+Brown Bear Brown Bear What Do You See?,Eric Carle,gpt5.1,ZeroShot,Distancing,Can you think of an animal that is not in the book but you see around you?
+The Grouchy Ladybug,Eric Carle,gpt5.1,ZeroShot,Completion,The grouchy ladybug was feeling _______ at the start of the story.
+The Grouchy Ladybug,Eric Carle,gpt5.1,ZeroShot,Completion,The ladybug wanted to fight the biggest _______ she could find.
+The Grouchy Ladybug,Eric Carle,gpt5.1,ZeroShot,Recall,What animal did the grouchy ladybug first meet?
+The Grouchy Ladybug,Eric Carle,gpt5.1,ZeroShot,Recall,Where did the ladybug go to find a bigger bug to fight?
+The Grouchy Ladybug,Eric Carle,gpt5.1,ZeroShot,Wh-Question,Why was the ladybug so grouchy?
+The Grouchy Ladybug,Eric Carle,gpt5.1,ZeroShot,Wh-Question,What happened when the ladybug met the whale?
+The Grouchy Ladybug,Eric Carle,gpt5.1,ZeroShot,Open-Ended,How do you think the ladybug felt at the end of the story?
+The Grouchy Ladybug,Eric Carle,gpt5.1,ZeroShot,Open-Ended,What would you do if you were the grouchy ladybug?
+The Grouchy Ladybug,Eric Carle,gpt5.1,ZeroShot,Distancing,Have you ever felt grouchy like the ladybug? What made you feel that way?
+The Grouchy Ladybug,Eric Carle,gpt5.1,ZeroShot,Distancing,Can you think of a time when you wanted to be the biggest or strongest like the ladybug?
+A House for a Hermit Crab,Eric Carle,gpt5.1,ZeroShot,Completion,The hermit crab changes his shell because ____.
+A House for a Hermit Crab,Eric Carle,gpt5.1,ZeroShot,Completion,The hermit crab feels happy when ____.
+A House for a Hermit Crab,Eric Carle,gpt5.1,ZeroShot,Recall,What kind of animal is the main character in the story?
+A House for a Hermit Crab,Eric Carle,gpt5.1,ZeroShot,Recall,What does the hermit crab find at the end of the book?
+A House for a Hermit Crab,Eric Carle,gpt5.1,ZeroShot,Wh-Question,Why does the hermit crab need a new shell?
+A House for a Hermit Crab,Eric Carle,gpt5.1,ZeroShot,Wh-Question,Where does the hermit crab live?
+A House for a Hermit Crab,Eric Carle,gpt5.1,ZeroShot,Open-Ended,How do you think the hermit crab feels when he finds a new shell?
+A House for a Hermit Crab,Eric Carle,gpt5.1,ZeroShot,Open-Ended,What would you do if you were the hermit crab looking for a new home?
+A House for a Hermit Crab,Eric Carle,gpt5.1,ZeroShot,Distancing,Have you ever had to change something in your life like the hermit crab changed his shell?
+A House for a Hermit Crab,Eric Carle,gpt5.1,ZeroShot,Distancing,Can you think of a time when you found something new and it made you happy?
+Mister Seahorse,Eric Carle,gpt5.1,ZeroShot,Completion,Mister Seahorse carries his babies in his ______.
+Mister Seahorse,Eric Carle,gpt5.1,ZeroShot,Completion,The daddy seahorse takes care of the ______ eggs.
+Mister Seahorse,Eric Carle,gpt5.1,ZeroShot,Recall,Who carries the babies in the story?
+Mister Seahorse,Eric Carle,gpt5.1,ZeroShot,Recall,What kind of animal is Mister Seahorse?
+Mister Seahorse,Eric Carle,gpt5.1,ZeroShot,Wh-Question,Where does Mister Seahorse keep his babies?
+Mister Seahorse,Eric Carle,gpt5.1,ZeroShot,Wh-Question,Why do the daddy sea creatures take care of their babies?
+Mister Seahorse,Eric Carle,gpt5.1,ZeroShot,Open-Ended,How do you think the baby seahorses feel when they are safe?
+Mister Seahorse,Eric Carle,gpt5.1,ZeroShot,Open-Ended,What would you do if you were a daddy seahorse?
+Mister Seahorse,Eric Carle,gpt5.1,ZeroShot,Distancing,Have you ever helped take care of a baby or pet like Mister Seahorse?
+Mister Seahorse,Eric Carle,gpt5.1,ZeroShot,Distancing,Can you think of a time when you helped someone like the daddy sea creatures?
+The Very Busy Spider,Eric Carle,gpt5.1,ZeroShot,Completion,The spider is very busy because she is making a ______.
+The Very Busy Spider,Eric Carle,gpt5.1,ZeroShot,Completion,"The animals try to talk to the spider, but she is too ______."
+The Very Busy Spider,Eric Carle,gpt5.1,ZeroShot,Recall,What animal is the main character in the story?
+The Very Busy Spider,Eric Carle,gpt5.1,ZeroShot,Recall,What does the spider make in the story?
+The Very Busy Spider,Eric Carle,gpt5.1,ZeroShot,Wh-Question,Where does the spider build her web?
+The Very Busy Spider,Eric Carle,gpt5.1,ZeroShot,Wh-Question,Who are some of the animals the spider meets?
+The Very Busy Spider,Eric Carle,gpt5.1,ZeroShot,Open-Ended,Why do you think the spider keeps working without stopping?
+The Very Busy Spider,Eric Carle,gpt5.1,ZeroShot,Open-Ended,What would you do if you were the spider?
+The Very Busy Spider,Eric Carle,gpt5.1,ZeroShot,Distancing,Have you ever been very busy like the spider? What were you doing?
+The Very Busy Spider,Eric Carle,gpt5.1,ZeroShot,Distancing,"Can you remember a time when you had to finish something important, like the spider?"
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,ZeroShot,Completion,The chameleon wanted to look like a ________.
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,ZeroShot,Completion,The chameleon changed its colors to match the ________.
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,ZeroShot,Recall,What animals did the chameleon try to look like?
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,ZeroShot,Recall,What color was the chameleon at the end of the story?
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,ZeroShot,Wh-Question,Why did the chameleon want to change its colors?
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,ZeroShot,Wh-Question,How did the chameleon feel when it was mixed up?
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,ZeroShot,Open-Ended,What would you do if you could change colors like the chameleon?
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,ZeroShot,Open-Ended,Why do you think the chameleon was happy at the end?
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,ZeroShot,Distancing,Have you ever wished you could look like someone else?
+The Mixed-Up Chameleon,Eric Carle,gpt5.1,ZeroShot,Distancing,Can you think of a time when being yourself was the best choice?
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,ZeroShot,Completion,The girl needs to get _______ to make pancakes.
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,ZeroShot,Completion,"Before making pancakes, the girl must help her _______."
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,ZeroShot,Recall,What does the girl want to make in the story?
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,ZeroShot,Recall,Who helps the girl get the ingredients for pancakes?
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,ZeroShot,Wh-Question,Why does the girl go to the mill?
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,ZeroShot,Wh-Question,Where does the girl get the milk from?
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,ZeroShot,Open-Ended,How do you think the girl feels when she makes pancakes?
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,ZeroShot,Open-Ended,What would you do if you wanted to make pancakes?
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,ZeroShot,Distancing,Have you ever helped make food at home like the girl in the story?
+"Pancakes, Pancakes!",Eric Carle,gpt5.1,ZeroShot,Distancing,What is your favorite thing to eat for breakfast?
+10 Little Rubber Ducks,Eric Carle,gpt5.1,ZeroShot,Completion,The 10 little rubber ducks floated on the ______.
+10 Little Rubber Ducks,Eric Carle,gpt5.1,ZeroShot,Completion,The big storm made the ducks ______ away.
+10 Little Rubber Ducks,Eric Carle,gpt5.1,ZeroShot,Recall,How many rubber ducks did the story start with?
+10 Little Rubber Ducks,Eric Carle,gpt5.1,ZeroShot,Recall,What happened to the ducks in the ocean?
+10 Little Rubber Ducks,Eric Carle,gpt5.1,ZeroShot,Wh-Question,Where did the little rubber ducks go after the storm?
+10 Little Rubber Ducks,Eric Carle,gpt5.1,ZeroShot,Wh-Question,Who helped the rubber ducks in the story?
+10 Little Rubber Ducks,Eric Carle,gpt5.1,ZeroShot,Open-Ended,What do you think the ducks felt when they were lost at sea?
+10 Little Rubber Ducks,Eric Carle,gpt5.1,ZeroShot,Open-Ended,"If you had a rubber duck, where would you take it?"
+10 Little Rubber Ducks,Eric Carle,gpt5.1,ZeroShot,Distancing,Have you ever lost a toy like the rubber ducks? What did you do?
+10 Little Rubber Ducks,Eric Carle,gpt5.1,ZeroShot,Distancing,Can you remember a time when you went on a trip like the ducks on the ocean?
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,ZeroShot,Completion,"1, 2, 3 to the ___."
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,ZeroShot,Completion,The animals in the book are going to the ___.
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,ZeroShot,Recall,What animals did you see in the book?
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,ZeroShot,Recall,How many animals did you count in the story?
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,ZeroShot,Wh-Question,"Who is the author of the book 1,2,3 to the Zoo?"
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,ZeroShot,Wh-Question,Where are the animals going in the story?
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,ZeroShot,Open-Ended,Which animal was your favorite and why?
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,ZeroShot,Open-Ended,What do you think the animals will do at the zoo?
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,ZeroShot,Distancing,Have you ever been to a zoo like in the book?
+"1,2,3 to the Zoo",Eric Carle,gpt5.1,ZeroShot,Distancing,"If you could take an animal from the book home, which one would you choose?"
+The Giving Tree,Shel Silverstein,gpt5.1,ZeroShot,Completion,The tree gave the boy _______ to play with.
+The Giving Tree,Shel Silverstein,gpt5.1,ZeroShot,Completion,The boy was happy when the tree gave him _______.
+The Giving Tree,Shel Silverstein,gpt5.1,ZeroShot,Recall,What did the boy take from the tree?
+The Giving Tree,Shel Silverstein,gpt5.1,ZeroShot,Recall,Who is the author of The Giving Tree?
+The Giving Tree,Shel Silverstein,gpt5.1,ZeroShot,Wh-Question,Why did the tree give things to the boy?
+The Giving Tree,Shel Silverstein,gpt5.1,ZeroShot,Wh-Question,What did the boy do when he grew older?
+The Giving Tree,Shel Silverstein,gpt5.1,ZeroShot,Open-Ended,How do you think the boy felt when the tree gave him gifts?
+The Giving Tree,Shel Silverstein,gpt5.1,ZeroShot,Open-Ended,What would you do if you were the tree?
+The Giving Tree,Shel Silverstein,gpt5.1,ZeroShot,Distancing,Have you ever shared something with a friend like the tree did?
+The Giving Tree,Shel Silverstein,gpt5.1,ZeroShot,Distancing,Can you think of a time when someone gave you a gift like the tree?
+How to Hide a Lion,Helen Stephens,gpt5.1,ZeroShot,Completion,The lion in the story tried to hide because __________.
+How to Hide a Lion,Helen Stephens,gpt5.1,ZeroShot,Completion,The girl helped the lion by __________.
+How to Hide a Lion,Helen Stephens,gpt5.1,ZeroShot,Recall,What animal did the girl try to hide?
+How to Hide a Lion,Helen Stephens,gpt5.1,ZeroShot,Recall,Where did the girl try to hide the lion?
+How to Hide a Lion,Helen Stephens,gpt5.1,ZeroShot,Wh-Question,Why did the girl want to hide the lion?
+How to Hide a Lion,Helen Stephens,gpt5.1,ZeroShot,Wh-Question,How did the lion feel when it was hiding?
+How to Hide a Lion,Helen Stephens,gpt5.1,ZeroShot,Open-Ended,What would you do if you found a lion?
+How to Hide a Lion,Helen Stephens,gpt5.1,ZeroShot,Open-Ended,Can you think of a place where you could hide a big animal?
+How to Hide a Lion,Helen Stephens,gpt5.1,ZeroShot,Distancing,Have you ever tried to keep a secret like the girl did?
+How to Hide a Lion,Helen Stephens,gpt5.1,ZeroShot,Distancing,What would you do if you saw a lion at your home?
+Where the Wild Things Are,Maurice Sendak,gpt5.1,ZeroShot,Completion,Max wore a crown and a __________.
+Where the Wild Things Are,Maurice Sendak,gpt5.1,ZeroShot,Completion,The Wild Things made Max feel __________.
+Where the Wild Things Are,Maurice Sendak,gpt5.1,ZeroShot,Recall,What is the name of the boy in the story?
+Where the Wild Things Are,Maurice Sendak,gpt5.1,ZeroShot,Recall,Where does Max go after he puts on his crown?
+Where the Wild Things Are,Maurice Sendak,gpt5.1,ZeroShot,Wh-Question,Why did Max become the king of the Wild Things?
+Where the Wild Things Are,Maurice Sendak,gpt5.1,ZeroShot,Wh-Question,What did Max do to make the Wild Things wild?
+Where the Wild Things Are,Maurice Sendak,gpt5.1,ZeroShot,Open-Ended,How do you think Max felt when he was with the Wild Things?
+Where the Wild Things Are,Maurice Sendak,gpt5.1,ZeroShot,Open-Ended,What would you do if you met the Wild Things?
+Where the Wild Things Are,Maurice Sendak,gpt5.1,ZeroShot,Distancing,Have you ever felt like Max when you wanted to be wild and free?
+Where the Wild Things Are,Maurice Sendak,gpt5.1,ZeroShot,Distancing,Can you remember a time when you had to say sorry like Max did?
+Rosie's Walk,Pat Hutchins,gpt5.1,ZeroShot,Completion,Rosie walked all around the _____.
+Rosie's Walk,Pat Hutchins,gpt5.1,ZeroShot,Completion,The fox followed Rosie because he wanted to _____.
+Rosie's Walk,Pat Hutchins,gpt5.1,ZeroShot,Recall,What animal walks around the farm in the story?
+Rosie's Walk,Pat Hutchins,gpt5.1,ZeroShot,Recall,Where does Rosie go for her walk?
+Rosie's Walk,Pat Hutchins,gpt5.1,ZeroShot,Wh-Question,Who follows Rosie on her walk?
+Rosie's Walk,Pat Hutchins,gpt5.1,ZeroShot,Wh-Question,What does Rosie see during her walk?
+Rosie's Walk,Pat Hutchins,gpt5.1,ZeroShot,Open-Ended,Why do you think Rosie is not afraid of the fox?
+Rosie's Walk,Pat Hutchins,gpt5.1,ZeroShot,Open-Ended,What would you do if you saw a fox on a walk?
+Rosie's Walk,Pat Hutchins,gpt5.1,ZeroShot,Distancing,Have you ever gone on a walk outside like Rosie? What did you see?
+Rosie's Walk,Pat Hutchins,gpt5.1,ZeroShot,Distancing,"If you were Rosie, how would you feel about the fox following you?"
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,ZeroShot,Completion,Alma got her long name because her family wanted to ________.
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,ZeroShot,Completion,Alma felt special when she learned about ________ in her name.
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,ZeroShot,Recall,What is the name of the girl in the story?
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,ZeroShot,Recall,Who tells Alma the story about her name?
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,ZeroShot,Wh-Question,Why does Alma have a long name?
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,ZeroShot,Wh-Question,What does Alma learn about her family from her name?
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,ZeroShot,Open-Ended,How do you think Alma feels when she hears the story about her name?
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,ZeroShot,Open-Ended,What would you do if you had a very long name like Alma?
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,ZeroShot,Distancing,Can you think of a time when you learned something special about your family?
+Alma and How She Got Her Name,Juana Martinez-Neal,gpt5.1,ZeroShot,Distancing,Have you ever felt proud of your name or where you come from?
+Mae Among the Stars,Roda Ahmed,gpt5.1,ZeroShot,Completion,Mae wanted to be an astronaut because she loved to _______.
+Mae Among the Stars,Roda Ahmed,gpt5.1,ZeroShot,Completion,Mae’s family told her to keep believing in her _______.
+Mae Among the Stars,Roda Ahmed,gpt5.1,ZeroShot,Recall,What did Mae dream of becoming when she grew up?
+Mae Among the Stars,Roda Ahmed,gpt5.1,ZeroShot,Recall,Who helped Mae reach for the stars?
+Mae Among the Stars,Roda Ahmed,gpt5.1,ZeroShot,Wh-Question,Why did Mae look at the stars every night?
+Mae Among the Stars,Roda Ahmed,gpt5.1,ZeroShot,Wh-Question,How did Mae feel when people said she could not be an astronaut?
+Mae Among the Stars,Roda Ahmed,gpt5.1,ZeroShot,Open-Ended,What would you do if you wanted to be like Mae?
+Mae Among the Stars,Roda Ahmed,gpt5.1,ZeroShot,Open-Ended,How do you think Mae felt when she finally went to space?
+Mae Among the Stars,Roda Ahmed,gpt5.1,ZeroShot,Distancing,Have you ever wanted to do something that was hard like Mae? What was it?
+Mae Among the Stars,Roda Ahmed,gpt5.1,ZeroShot,Distancing,What would you say to a friend who wants to follow their big dreams?
+Lubna and Pebble,Wendy Meddour,gpt5.1,ZeroShot,Completion,Lubna found a special friend called __________.
+Lubna and Pebble,Wendy Meddour,gpt5.1,ZeroShot,Completion,Pebble is important because __________.
+Lubna and Pebble,Wendy Meddour,gpt5.1,ZeroShot,Recall,What did Lubna find on the beach?
+Lubna and Pebble,Wendy Meddour,gpt5.1,ZeroShot,Recall,Where does Lubna live in the story?
+Lubna and Pebble,Wendy Meddour,gpt5.1,ZeroShot,Wh-Question,Why did Lubna keep Pebble with her?
+Lubna and Pebble,Wendy Meddour,gpt5.1,ZeroShot,Wh-Question,How did Lubna feel when she found Pebble?
+Lubna and Pebble,Wendy Meddour,gpt5.1,ZeroShot,Open-Ended,What would you do if you found a special pebble?
+Lubna and Pebble,Wendy Meddour,gpt5.1,ZeroShot,Open-Ended,How do you think Lubna and Pebble helped each other?
+Lubna and Pebble,Wendy Meddour,gpt5.1,ZeroShot,Distancing,Have you ever felt lonely like Lubna? What did you do?
+Lubna and Pebble,Wendy Meddour,gpt5.1,ZeroShot,Distancing,Can you tell about a time you made a new friend?
+Can I Be Your Dog?,Troy Cummings,gpt5.1,ZeroShot,Completion,The dog in the story wants to be a ______.
+Can I Be Your Dog?,Troy Cummings,gpt5.1,ZeroShot,Completion,The dog shows he can be a good friend by ______.
+Can I Be Your Dog?,Troy Cummings,gpt5.1,ZeroShot,Recall,What kind of animal is the main character in the story?
+Can I Be Your Dog?,Troy Cummings,gpt5.1,ZeroShot,Recall,Who does the dog want to live with?
+Can I Be Your Dog?,Troy Cummings,gpt5.1,ZeroShot,Wh-Question,Why does the dog want to be someone's pet?
+Can I Be Your Dog?,Troy Cummings,gpt5.1,ZeroShot,Wh-Question,Where does the dog go to ask to be a pet?
+Can I Be Your Dog?,Troy Cummings,gpt5.1,ZeroShot,Open-Ended,How would you feel if a dog asked to be your pet?
+Can I Be Your Dog?,Troy Cummings,gpt5.1,ZeroShot,Open-Ended,What would you do to show a dog you want to be its friend?
+Can I Be Your Dog?,Troy Cummings,gpt5.1,ZeroShot,Distancing,Have you ever met a dog that wanted to be your friend? What did you do?
+Can I Be Your Dog?,Troy Cummings,gpt5.1,ZeroShot,Distancing,What would you do if you found a dog looking for a new home?
+Last Stop on Market Street,Matt de la Peña,gpt5.1,ZeroShot,Completion,The boy and his grandma ride the _______ to get to the last stop.
+Last Stop on Market Street,Matt de la Peña,gpt5.1,ZeroShot,Completion,CJ sees many different things on his way to the _______.
+Last Stop on Market Street,Matt de la Peña,gpt5.1,ZeroShot,Recall,What does CJ ride to get to the market?
+Last Stop on Market Street,Matt de la Peña,gpt5.1,ZeroShot,Recall,Who goes with CJ on the bus?
+Last Stop on Market Street,Matt de la Peña,gpt5.1,ZeroShot,Wh-Question,Why does CJ ask his grandma questions?
+Last Stop on Market Street,Matt de la Peña,gpt5.1,ZeroShot,Wh-Question,What does CJ notice about the people on the bus?
+Last Stop on Market Street,Matt de la Peña,gpt5.1,ZeroShot,Open-Ended,How do you think CJ feels when he rides the bus?
+Last Stop on Market Street,Matt de la Peña,gpt5.1,ZeroShot,Open-Ended,What would you do if you saw a big orange bus like CJ did?
+Last Stop on Market Street,Matt de la Peña,gpt5.1,ZeroShot,Distancing,Have you ever taken a bus or a car with someone you love? What was it like?
+Last Stop on Market Street,Matt de la Peña,gpt5.1,ZeroShot,Distancing,What do you like to do when you go to a special place with your family?
+This Is Not My Hat,Jon Klassen,gpt5.1,ZeroShot,Completion,The little fish took a hat that belonged to ____.
+This Is Not My Hat,Jon Klassen,gpt5.1,ZeroShot,Completion,The big fish thinks the little fish will ____.
+This Is Not My Hat,Jon Klassen,gpt5.1,ZeroShot,Recall,What does the little fish take at the start of the story?
+This Is Not My Hat,Jon Klassen,gpt5.1,ZeroShot,Recall,Who tries to catch the little fish?
+This Is Not My Hat,Jon Klassen,gpt5.1,ZeroShot,Wh-Question,Why does the little fish take the big fish’s hat?
+This Is Not My Hat,Jon Klassen,gpt5.1,ZeroShot,Wh-Question,Where does the big fish go to look for his hat?
+This Is Not My Hat,Jon Klassen,gpt5.1,ZeroShot,Open-Ended,What do you think will happen to the little fish in the end?
+This Is Not My Hat,Jon Klassen,gpt5.1,ZeroShot,Open-Ended,How do you feel about the little fish taking the hat?
+This Is Not My Hat,Jon Klassen,gpt5.1,ZeroShot,Distancing,Have you ever taken something that wasn’t yours? How did it feel?
+This Is Not My Hat,Jon Klassen,gpt5.1,ZeroShot,Distancing,What would you do if you lost something important like the big fish’s hat?
+Watercress,Andrea Wang,gpt5.1,ZeroShot,Completion,The family went to pick ___________ by the river.
+Watercress,Andrea Wang,gpt5.1,ZeroShot,Completion,The girl felt __________ when her family found the watercress.
+Watercress,Andrea Wang,gpt5.1,ZeroShot,Recall,What did the family find by the river?
+Watercress,Andrea Wang,gpt5.1,ZeroShot,Recall,Who is the author of Watercress?
+Watercress,Andrea Wang,gpt5.1,ZeroShot,Wh-Question,Where did the family go to find watercress?
+Watercress,Andrea Wang,gpt5.1,ZeroShot,Wh-Question,Why did the girl feel different about the watercress at first?
+Watercress,Andrea Wang,gpt5.1,ZeroShot,Open-Ended,How do you think the girl felt when she tried the watercress?
+Watercress,Andrea Wang,gpt5.1,ZeroShot,Open-Ended,What would you do if you found watercress by a river?
+Watercress,Andrea Wang,gpt5.1,ZeroShot,Distancing,Have you ever found something outside that made you feel special?
+Watercress,Andrea Wang,gpt5.1,ZeroShot,Distancing,What is something new you tried that you didn’t like at first but later did?

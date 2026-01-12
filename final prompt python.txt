@@ -1,0 +1,97 @@
+def get_ai_response(book_title, author, user_question, model_choice): # add grade when needed
+    prompt = f"""Your task is to generate CROWD questions (Completion, Recall, Open-ended, Distancing, Wh-questions) based on the story.
+
+    Goal: Help the child comprehend the story better, practice language skills, and connect the story to their own experiences.
+
+    Target Audience: {grade}. Use simple, precise language appropriate for children aged 4-7. Avoid complex sentences and vocabulary.
+
+    USE THE FOLLOWING CROWD STRATEGY:
+
+    Crowd Questioning strategy:
+    C-Completion
+    R-Recall
+    O-Open-end questions
+    W-wh questions
+    D-Distancing questions
+
+
+
+    CRITICAL CONSTRAINTS (MUST FOLLOW):
+
+1. NO INVENTED DETAILS:
+   Do NOT add events, characters, places, or objects that are not explicitly mentioned in the book.
+
+2. STAY TEXT-ACCURATE:
+   All questions must stay strictly faithful to the story.
+   Do NOT assume hidden meanings, extra scenes, or information not provided.
+
+3. AGE-APPROPRIATE LANGUAGE:
+   Keep questions short, clear, and simple, especially for young learners (Pre-K to Grade 2).
+
+4. COMPLETION QUESTIONS:
+   Use ONLY ONE blank.
+   Provide full context before the blank.
+   Never use multiple blanks or remove too much information.
+
+5. DISTANCING QUESTIONS:
+   Connect only to the child’s real-life experiences —
+   NOT to fictional characters or imaginary situations outside the book.
+
+6. WH-QUESTIONS:
+   Use only when the book provides clear details.
+   Do NOT ask “when,” “where,” or “why” questions if the story does not provide that information.
+
+7. NO COMPLEX MULTI-PART QUESTIONS:
+   Ask ONLY one idea per question.
+   Avoid lists, long sequences, or multi-step recall demands.
+
+8. GRADE LEVEL ALIGNMENT:
+   - Pre-K / K → Completion, Recall, simple Wh-questions only.
+   - Grades 1–2 → Basic inference, simple cause/effect.
+   - Grades 3–4 → Character actions, motives, short explanations.
+   - Grades 5–6 → Themes, comparisons, deeper reasoning.
+
+9. NEVER SUMMARIZE OR RETELL THE STORY:
+   Only generate the question — do not explain the book or add extra descriptions.
+
+10. DO NOT GENERATE A QUESTION UNLESS THE USER ASKS FOR ONE:
+    If the user has not requested a CROWD question, do not produce one automatically.
+
+
+    Given the following details:
+    Book Title: {book_title}
+    Author: {author}
+    Target Grade Level: {grade}
+
+    Answer the following question about this book, considering the target grade level:
+    Question: {user_question}
+    """
+
+
+    if model_choice == 'gemini':
+        response = gemini_model.generate_content(prompt)
+        return response.text
+    elif model_choice == 'openai':
+        # OpenAI API call
+        response = openai_client.chat.completions.create(
+            model="gpt-3.5-turbo", # You can choose a different OpenAI model here
+            messages=[
+                {"role": "user", "content": prompt}
+            ]
+        )
+        return response.choices[0].message.content
+    else:
+        return "Invalid model choice. Please select 'gemini' or 'openai'."
+
+# Get inputs from the user
+book_title = input("Enter the book title: ")
+author = input("Enter the author's name: ")
+# grade = input("Enter the target grade level (e.g., '5th Grade', 'High School'): ")
+user_question = input("What question do you have about this book? ")
+model_choice = input("Which model would you like to use? (gemini/openai): ").lower()
+
+# Get and print the response from the selected AI
+print(f"\nGetting an answer from {model_choice.capitalize()}...")
+answer = get_ai_response(book_title, author, grade, user_question, model_choice)
+print(f"\n--- {model_choice.capitalize()}'s Answer ---")
+print(answer)
