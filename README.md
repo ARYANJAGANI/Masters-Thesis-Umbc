@@ -94,16 +94,6 @@ This repository is intended for **academic reference and reproducibility**.
 - Provides reusable rubrics for educational AI research  
 - Highlights strengths and limitations of LLMs in early learning contexts  
 
----
-
-## 📄 Citation
-
-If you reference this work, please cite:
-
-> Jagani, A. (2026). *Evaluating Large Language Model–Generated Questions for Early Childhood Dialogic Reading*.  
-> Master’s Thesis, University of Maryland, Baltimore County.
-
-*(Title subject to final approval.)*
 
 ---
 
