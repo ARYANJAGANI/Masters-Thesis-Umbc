@@ -31,7 +31,7 @@ This thesis explores the following core questions:
 - Can Large Language Models generate **educationally meaningful questions** for early childhood reading activities?
 - How well do LLM-generated questions align with the **Curated Education Rubrics**?
 - How do LLM-generated questions compare to **human-generated questions** across pedagogical evaluation rubrics?
-- Can **human ratings and automated metrics** be used together to assess question quality reliably?
+- Can **LLM as a Judge** be used to assess question quality reliablity?
 
 ---
 
